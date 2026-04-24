@@ -22,6 +22,11 @@
 
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
+/* ---------- Navbar: dezente Trennung zum Hero -------------------------- */
+.navbar {
+  border-bottom: 1px solid rgba(35, 36, 97, 0.08);
+  box-shadow: 0 1px 3px rgba(35, 36, 97, 0.04);
+}
 
 /* ---------- Reset & Basis --------------------------------------------------- */
 * { box-sizing: border-box; }
