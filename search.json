@@ -1,227 +1,339 @@
 [
   {
-    "objectID": "block-06-marktversagen/rev.html",
-    "href": "block-06-marktversagen/rev.html",
-    "title": "Block 6 — Nachbereitung",
+    "objectID": "block-07/rev.html",
+    "href": "block-07/rev.html",
+    "title": "Block 7 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-06-marktversagen/rev.html#übungsaufgaben",
-    "href": "block-06-marktversagen/rev.html#übungsaufgaben",
-    "title": "Block 6 — Nachbereitung",
+    "objectID": "block-07/rev.html#übungsaufgaben",
+    "href": "block-07/rev.html#übungsaufgaben",
+    "title": "Block 7 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-06-marktversagen/rev.html#klausurvorbereitung",
-    "href": "block-06-marktversagen/rev.html#klausurvorbereitung",
-    "title": "Block 6 — Nachbereitung",
+    "objectID": "block-07/rev.html#klausurvorbereitung",
+    "href": "block-07/rev.html#klausurvorbereitung",
+    "title": "Block 7 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-06-marktversagen/rev.html#vertiefende-literatur-optional",
-    "href": "block-06-marktversagen/rev.html#vertiefende-literatur-optional",
-    "title": "Block 6 — Nachbereitung",
+    "objectID": "block-07/rev.html#vertiefende-literatur-optional",
+    "href": "block-07/rev.html#vertiefende-literatur-optional",
+    "title": "Block 7 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen."
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-06-marktversagen/lecture.html#lernziele",
-    "href": "block-06-marktversagen/lecture.html#lernziele",
-    "title": "Block 6 — Lecture",
+    "objectID": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#section",
+    "href": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 7 · Konjunktur und Stabilisierungspolitik\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#lernziele",
+    "href": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\nHier die Lernziele des Blocks auflisten."
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-06-marktversagen/lecture.html#platzhalter-folie",
-    "href": "block-06-marktversagen/lecture.html#platzhalter-folie",
-    "title": "Block 6 — Lecture",
-    "section": "Platzhalter-Folie",
-    "text": "Platzhalter-Folie\nInhalte folgen."
+    "objectID": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#vielen-dank",
+    "href": "block-07/block07-lecture-konjunktur-und-stabilisierung.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-05-arbeit/prep.html",
-    "href": "block-05-arbeit/prep.html",
-    "title": "Block 5 — Vorbereitung",
+    "objectID": "block-06/prep.html",
+    "href": "block-06/prep.html",
+    "title": "Block 6 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 6 führt in die Gesamtbetrachtung der Volkswirtschaft ein. Wir lernen das BIP als zentrale Messgröße kennen — und seine Schwächen, an die schon Sen in Block 1 erinnert hatte. Die volkswirtschaftliche Gesamtrechnung wird zum gemeinsamen Vokabular, das WS-PS-Modell zum analytischen Werkzeug für den Arbeitsmarkt. Wachstum und Konjunktur werden begrifflich getrennt; Inflation wird nicht nur gemessen, sondern in der Phillips-Kurve als empirischer Zusammenhang erfasst. Damit ist das Fundament gelegt für die Stabilisierungspolitik in Block 7."
   },
   {
-    "objectID": "block-05-arbeit/prep.html#reading-assignment",
-    "href": "block-05-arbeit/prep.html#reading-assignment",
-    "title": "Block 5 — Vorbereitung",
+    "objectID": "block-06/prep.html#worum-es-geht",
+    "href": "block-06/prep.html#worum-es-geht",
+    "title": "Block 6 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 6 führt in die Gesamtbetrachtung der Volkswirtschaft ein. Wir lernen das BIP als zentrale Messgröße kennen — und seine Schwächen, an die schon Sen in Block 1 erinnert hatte. Die volkswirtschaftliche Gesamtrechnung wird zum gemeinsamen Vokabular, das WS-PS-Modell zum analytischen Werkzeug für den Arbeitsmarkt. Wachstum und Konjunktur werden begrifflich getrennt; Inflation wird nicht nur gemessen, sondern in der Phillips-Kurve als empirischer Zusammenhang erfasst. Damit ist das Fundament gelegt für die Stabilisierungspolitik in Block 7."
   },
   {
-    "objectID": "block-05-arbeit/prep.html#vorbereitungsfragen",
-    "href": "block-05-arbeit/prep.html#vorbereitungsfragen",
-    "title": "Block 5 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHier 2–3 Fragen formulieren, die die Studierenden schriftlich vorbereiten. Sie werden zu Beginn der Sitzung aufgegriffen.\n\n…\n…\n…"
+    "objectID": "block-06/prep.html#so-arbeiten-wir",
+    "href": "block-06/prep.html#so-arbeiten-wir",
+    "title": "Block 6 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-05-arbeit/prep.html#optionale-ressourcen",
-    "href": "block-05-arbeit/prep.html#optionale-ressourcen",
-    "title": "Block 5 — Vorbereitung",
-    "section": "Optionale Ressourcen",
-    "text": "Optionale Ressourcen\nVideos, Podcasts, weiterführende Artikel …"
+    "objectID": "block-06/prep.html#lernziele-für-die-präsenz",
+    "href": "block-06/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 6 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nBIP-Komponenten verstehen und im Wirtschaftskreislauf verorten.\nDas WS-PS-Modell als Gleichgewichtsanalyse des Arbeitsmarktes anwenden.\nWachstums- von Konjunkturphänomenen unterscheiden.\nInflation messen und die Phillips-Kurve interpretieren."
   },
   {
-    "objectID": "block-04-maerkte/rev.html",
-    "href": "block-04-maerkte/rev.html",
-    "title": "Block 4 — Nachbereitung",
+    "objectID": "block-06/prep.html#vorbereitungsaufträge",
+    "href": "block-06/prep.html#vorbereitungsaufträge",
+    "title": "Block 6 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — BIP, Volkswirtschaftliche Gesamtrechnung und Wirtschaftskreislauf\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das BIP definieren, seine Komponenten benennen und den Wirtschaftskreislauf grafisch darstellen.\nInhaltlich: Ihr versteht, wie wirtschaftliche Aktivität gemessen wird und welche Grenzen das BIP als Wohlstandsmaß hat.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 3, Abschnitte 3.2 bis 3.4 – Lest vollständig. Achtet auf: BIP-Definition und die drei Berechnungswege (3.2), die Komponenten der Nachfrageseite (C, I, G, NX) (3.3), und die Diskussion zu den Grenzen des BIP (3.4).\n\n\n\nWhiteboard-Aufgabe\nZeichnet den Wirtschaftskreislauf mit den Sektoren Haushalte, Unternehmen, Staat und Ausland. Zeichnet die Ströme ein (Konsum, Investitionen, Staatsausgaben, Exporte/Importe, Steuern, Transfers). Notiert daneben die BIP-Formel: Y = C + I + G + (X − M).\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 3.2–3.4 erklärt, wie das BIP gemessen wird und was es (nicht) erfasst. Erklärt anhand des Textes: (a) Was sind die drei Wege, das BIP zu berechnen, und warum ergeben alle drei denselben Wert? (b) Welche wirtschaftlichen Aktivitäten erfasst das BIP nicht (nennt mindestens zwei konkrete Beispiele, die CORE 3.4 nennt)? (c) CORE 3.4 diskutiert das BIP als Wohlstandsmaß kritisch. Welches zentrale Argument bringt der Text, warum ein steigendes BIP nicht automatisch höheren Lebensstandard bedeutet?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wie schlägt sich KI im BIP nieder – steigert sie die Investitionen (I)? Den Konsum (C)? Erinnert euch an Sens Capability-Ansatz aus Block 1: Könnte KI den Lebensstandard verbessern, ohne dass sich das im BIP zeigt – oder umgekehrt?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro Kap. 3.2–3.4 gelesen.\nWirtschaftskreislauf mit BIP-Formel auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Der Arbeitsmarkt der Makroökonomie: WS-PS-Modell\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das WS-PS-Modell (Wage-Setting / Price-Setting) grafisch aufbauen und das makroökonomische Gleichgewicht bestimmen.\nInhaltlich: Ihr versteht, wie Löhne und Beschäftigung auf gesamtwirtschaftlicher Ebene bestimmt werden und warum es Arbeitslosigkeit im Gleichgewicht gibt.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 1, Abschnitte 1.3 bis 1.8 – Lest vollständig. Achtet auf: Messung von Beschäftigung und Arbeitslosigkeit (1.3–1.4), die Angebotsseite der Makroökonomie (1.5), die Herleitung der WS-Kurve (1.6), der PS-Kurve (1.7) und das Gleichgewicht (1.8).\n\n\n\nWhiteboard-Aufgabe\nZeichnet das WS-PS-Modell (y-Achse: Reallohn; x-Achse: Beschäftigungsquote). Zeichnet die Wage-Setting Curve (steigend) und die Price-Setting Curve (horizontal bei w = Arbeitsproduktivität / (1 + Markup)) ein. Markiert das Gleichgewicht und die zugehörige Gleichgewichts-Arbeitslosigkeit.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 1.5–1.8 entwickelt ein Modell, das erklärt, warum es auch im Gleichgewicht Arbeitslosigkeit gibt. Erklärt anhand des Textes: (a) Warum ist die WS-Kurve steigend – warum verlangen Arbeitnehmer bei niedrigerer Arbeitslosigkeit höhere Löhne? (b) Warum ist die PS-Kurve horizontal – was bestimmt den Reallohn, den Firmen zu zahlen bereit sind? (c) Warum gibt es im Gleichgewicht des WS-PS-Modells Arbeitslosigkeit – warum kann sie nicht auf null sinken?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Was passiert im WS-PS-Modell, wenn KI die Arbeitsproduktivität steigert – verschiebt sich die PS-Kurve nach oben? Und was, wenn KI gleichzeitig Arbeitskräfte ersetzt?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro Kap. 1.3–1.8 gelesen.\nWS-PS-Modell auf dem Whiteboard gezeichnet und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Wachstum vs. Konjunktur, Kapitalakkumulation und Demografie\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt den Unterschied zwischen langfristigem Wachstumstrend und kurzfristigen Konjunkturschwankungen grafisch darstellen.\nInhaltlich: Ihr versteht die Rolle von Kapitalakkumulation und Sparen für das Wachstum und kennt die demografische Herausforderung für Industrienationen.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 3, Abschnitt 3.5 – Lest diesen Abschnitt zu „Growth and Fluctuations”. Achtet auf die Zerlegung des BIP in Trend und Zyklus.\nCORE Macro Kap. 9, Abschnitte 9.3 bis 9.5 – Lest vollständig. Achtet auf: Kapitalgüter und Technologie (9.3), den Beitrag von Kapitalakkumulation zum Wachstum (9.4), den Zusammenhang von Investition und Sparen (9.5).\nFernández-Villaverde: „The Demographic Future of Humanity” (YouTube-Video, Pepperdine) – Schaut das Video und notiert die Kernthese: Warum ist der demografische Wandel laut Fernández-Villaverde eine größere langfristige Herausforderung als der Klimawandel?\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Diagramm (x-Achse: Zeit; y-Achse: reales BIP) mit einem langfristigen Wachstumstrend (Linie) und kurzfristigen Schwankungen (Konjunkturzyklen um den Trend). Markiert Boom, Rezession, Trough und Recovery. Notiert daneben: Was treibt den Trend (Kapitalakkumulation, Technologie) vs. was treibt den Zyklus (Nachfrageschocks)?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 3.5 und 9.3–9.5 behandeln die langfristigen Triebkräfte wirtschaftlichen Wachstums. Erklärt anhand der Texte: (a) Was ist der Unterschied zwischen dem langfristigen Wachstumstrend und kurzfristigen Konjunkturschwankungen (CORE 3.5)? (b) Warum reicht Kapitalakkumulation allein laut CORE 9.4 nicht aus, um dauerhaftes Wachstum zu erklären – welche Rolle spielt technologischer Fortschritt? (c) Was ist Fernández-Villaverdes Kernargument zur demografischen Herausforderung, und warum bedroht eine schrumpfende Erwerbsbevölkerung die Sozialsysteme?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Ist KI-Automatisierung die Antwort auf den demografischen Wandel? Kann KI die fehlenden Arbeitskräfte ersetzen – und wird Kapitalbildung im KI-Zeitalter wichtiger denn je?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro 3.5 und 9.3–9.5 gelesen, Fernández-Villaverde-Video angesehen.\nWachstumstrend/Konjunkturzyklus-Diagramm auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Inflation messen und die Phillips-Kurve als empirischer Zusammenhang\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Inflation definieren, messen und die Phillips-Kurve als empirischen Zusammenhang zwischen Inflation und Arbeitslosigkeit interpretieren.\nInhaltlich: Ihr versteht, was Inflation verursacht und warum der Zusammenhang zwischen Inflation und Arbeitslosigkeit nicht stabil ist.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 4, Abschnitte 4.2 bis 4.5 – Lest vollständig. Achtet auf: Messung von Inflation (Verbraucherpreisindex, 4.2), die Probleme von Inflation (4.3), den Zusammenhang von Inflation und Arbeitslosigkeit als Verteilungskonflikt (4.4) und die Phillips-Kurve als empirische Beziehung (4.5). Lest nicht weiter als 4.5 – die Abschnitte zu Geldpolitik (4.6 ff.) werden in einem späteren Modul behandelt.\n\n\n\nWhiteboard-Aufgabe\nZeichnet eine Phillips-Kurve (y-Achse: Inflationsrate; x-Achse: Arbeitslosenquote). Tragt ein: den inversen Zusammenhang (hohe Arbeitslosigkeit → niedrige Inflation und umgekehrt). Notiert daneben: Warum verschiebt sich die Phillips-Kurve, wenn sich die Inflationserwartungen ändern?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 4.2–4.5 erklärt, wie Inflation gemessen wird und warum sie mit der Arbeitslosenquote zusammenhängt. Erklärt anhand des Textes: (a) CORE 4.2 beschreibt die Konstruktion eines Preisindex. Wie wird ein „Warenkorb” zusammengestellt, und warum kann der Index die tatsächliche Inflationsbelastung verschiedener Haushalte unterschiedlich gut abbilden? (b) Warum beschreibt CORE 4.4 Inflation als Ergebnis „widersprüchlicher Ansprüche” (conflicting claims) auf das Volkseinkommen? Wer sind die Parteien, und worüber streiten sie? (c) Was zeigt die Phillips-Kurve empirisch – und warum ist der Zusammenhang laut CORE 4.5 nicht dauerhaft stabil?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn KI die Produktivität massiv steigert – wirkt das eher inflationär (höhere Löhne) oder deflationär (niedrigere Kosten)? Was sagt euer Phillips-Kurven-Modell dazu?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro Kap. 4.2–4.5 gelesen (nicht weiter!).\nPhillips-Kurve auf dem Whiteboard gezeichnet.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-05/rev.html",
+    "href": "block-05/rev.html",
+    "title": "Block 5 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-04-maerkte/rev.html#übungsaufgaben",
-    "href": "block-04-maerkte/rev.html#übungsaufgaben",
-    "title": "Block 4 — Nachbereitung",
+    "objectID": "block-05/rev.html#übungsaufgaben",
+    "href": "block-05/rev.html#übungsaufgaben",
+    "title": "Block 5 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-04-maerkte/rev.html#klausurvorbereitung",
-    "href": "block-04-maerkte/rev.html#klausurvorbereitung",
-    "title": "Block 4 — Nachbereitung",
+    "objectID": "block-05/rev.html#klausurvorbereitung",
+    "href": "block-05/rev.html#klausurvorbereitung",
+    "title": "Block 5 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-04-maerkte/rev.html#vertiefende-literatur-optional",
-    "href": "block-04-maerkte/rev.html#vertiefende-literatur-optional",
-    "title": "Block 4 — Nachbereitung",
+    "objectID": "block-05/rev.html#vertiefende-literatur-optional",
+    "href": "block-05/rev.html#vertiefende-literatur-optional",
+    "title": "Block 5 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen."
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-04-maerkte/lecture.html#lernziele",
-    "href": "block-04-maerkte/lecture.html#lernziele",
-    "title": "Block 4 — Lecture",
+    "objectID": "block-05/block05-lecture-maerkte-und-marktversagen.html#section",
+    "href": "block-05/block05-lecture-maerkte-und-marktversagen.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 5 · Märkte und Marktversagen\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-05/block05-lecture-maerkte-und-marktversagen.html#lernziele",
+    "href": "block-05/block05-lecture-maerkte-und-marktversagen.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\nHier die Lernziele des Blocks auflisten."
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-04-maerkte/lecture.html#platzhalter-folie",
-    "href": "block-04-maerkte/lecture.html#platzhalter-folie",
-    "title": "Block 4 — Lecture",
-    "section": "Platzhalter-Folie",
-    "text": "Platzhalter-Folie\nInhalte folgen."
+    "objectID": "block-05/block05-lecture-maerkte-und-marktversagen.html#vielen-dank",
+    "href": "block-05/block05-lecture-maerkte-und-marktversagen.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-03-institutionen/prep.html",
-    "href": "block-03-institutionen/prep.html",
-    "title": "Block 3 — Vorbereitung",
+    "objectID": "block-04/prep.html",
+    "href": "block-04/prep.html",
+    "title": "Block 4 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 4 verlässt die Welt des einzelnen, isoliert handelnden Akteurs. Sobald mehrere Akteure ihre Entscheidungen aufeinander beziehen, kommt Spieltheorie ins Spiel. Sobald Verträge unvollständig sind, werden Macht und Identität zu ökonomischen Kategorien. Sobald Information ungleich verteilt ist, drohen Märkte zu kollabieren (Lemons-Problem). Und über allem stehen Institutionen — die Regeln des Spiels — die bestimmen, wer welche Wahlmöglichkeiten hat. Hayek und Ostrom liefern uns hier zwei der wichtigsten ökonomischen Beiträge des 20. Jahrhunderts."
   },
   {
-    "objectID": "block-03-institutionen/prep.html#reading-assignment",
-    "href": "block-03-institutionen/prep.html#reading-assignment",
-    "title": "Block 3 — Vorbereitung",
+    "objectID": "block-04/prep.html#worum-es-geht",
+    "href": "block-04/prep.html#worum-es-geht",
+    "title": "Block 4 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 4 verlässt die Welt des einzelnen, isoliert handelnden Akteurs. Sobald mehrere Akteure ihre Entscheidungen aufeinander beziehen, kommt Spieltheorie ins Spiel. Sobald Verträge unvollständig sind, werden Macht und Identität zu ökonomischen Kategorien. Sobald Information ungleich verteilt ist, drohen Märkte zu kollabieren (Lemons-Problem). Und über allem stehen Institutionen — die Regeln des Spiels — die bestimmen, wer welche Wahlmöglichkeiten hat. Hayek und Ostrom liefern uns hier zwei der wichtigsten ökonomischen Beiträge des 20. Jahrhunderts."
   },
   {
-    "objectID": "block-03-institutionen/prep.html#vorbereitungsfragen",
-    "href": "block-03-institutionen/prep.html#vorbereitungsfragen",
-    "title": "Block 3 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHier 2–3 Fragen formulieren, die die Studierenden schriftlich vorbereiten. Sie werden zu Beginn der Sitzung aufgegriffen.\n\n…\n…\n…"
+    "objectID": "block-04/prep.html#so-arbeiten-wir",
+    "href": "block-04/prep.html#so-arbeiten-wir",
+    "title": "Block 4 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-03-institutionen/prep.html#optionale-ressourcen",
-    "href": "block-03-institutionen/prep.html#optionale-ressourcen",
-    "title": "Block 3 — Vorbereitung",
-    "section": "Optionale Ressourcen",
-    "text": "Optionale Ressourcen\nVideos, Podcasts, weiterführende Artikel …"
+    "objectID": "block-04/prep.html#lernziele-für-die-präsenz",
+    "href": "block-04/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 4 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nStrategisches Verhalten in Standardspielen (Gefangenendilemma, Koordination) analysieren.\nHayeks Wissensargument von Ostroms polyzentrischer Governance abgrenzen.\nAsymmetrische Information und ihre Marktauswirkungen erkennen.\nInstitutionelle Rahmenbedingungen als ökonomische Variable verstehen."
   },
   {
-    "objectID": "block-02-technologie/rev.html",
-    "href": "block-02-technologie/rev.html",
-    "title": "Block 2 — Nachbereitung",
+    "objectID": "block-04/prep.html#vorbereitungsaufträge",
+    "href": "block-04/prep.html#vorbereitungsaufträge",
+    "title": "Block 4 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Spieltheorie und strategische Preissetzung\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Auszahlungsmatrizen aufstellen, dominante Strategien identifizieren und das Nash-Gleichgewicht bestimmen.\nInhaltlich: Ihr versteht das Gefangenendilemma und könnt strategische Preissetzung bei wenigen Anbietern analysieren.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 4, Abschnitte 4.2 bis 4.4 – Lest vollständig. Arbeitet die Beispiele durch: Simultanee Spiele, dominante Strategien, Nash-Gleichgewicht (4.2–4.3) und das Gefangenendilemma (4.4). Nutzt die interaktiven Auszahlungsmatrizen.\nCORE Micro Kap. 7, Abschnitt 7.10 – Lest diesen Abschnitt als Anwendung: Wie setzen zwei Firmen (Kit und Wanda) ihre Preise strategisch, wenn sie wissen, dass die Konkurrentin reagiert? Achtet auf Abbildungen 7.24 und 7.25.\n\n\n\nWhiteboard-Aufgabe\nReproduziert die Auszahlungsmatrix aus CORE 7.10 (Abbildung 7.25): Kit und Wanda wählen jeweils zwischen „Hoher Preis” und „Niedriger Preis”. Tragt die Auszahlungen ein und bestimmt das Nash-Gleichgewicht für den Fall elastischer Nachfrage (mit der Check-Methode: Würde eine Spielerin einseitig abweichen?). Markiert die dominante Strategie.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 4.2–4.4 führt das Nash-Gleichgewicht ein, CORE 7.10 wendet es auf Preissetzung an. Erklärt anhand der Texte: (a) Was ist ein Nash-Gleichgewicht, und warum weicht keine Spielerin einseitig davon ab? (b) In CORE 7.10 (Abbildung 7.25): Unter welcher Bedingung (elastische vs. unelastische Nachfrage) entsteht ein Preiskampf (Niedrig/Niedrig als Nash-GG), und warum ist dieses Ergebnis für beide Firmen schlechter als gegenseitig hohe Preise?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Befinden sich KI-Unternehmen aktuell in einem Gefangenendilemma – einem „KI-Wettrüsten”, bei dem alle investieren müssen, obwohl keiner profitiert?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 4.2–4.4 und 7.10 gelesen.\nAuszahlungsmatrix mit Nash-GG auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Unvollständige Verträge und Identität im Unternehmen\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das Labour Discipline Model (Bestimmungsfaktoren des Lohns und der Arbeitsleistung) grafisch aufbauen.\nInhaltlich: Ihr versteht, warum Arbeitsverträge unvollständig sind und wie Identität (Identity Economics) das Anreizsystem ergänzt.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 6, Abschnitte 6.6 bis 6.10 – Lest vollständig. Achtet auf: Principal-Agent-Problem (6.6), Beschäftigungsrente als Disziplinierungsinstrument (6.7–6.8), Best-Response-Kurve (6.9) und das Nash-Gleichgewicht auf dem Arbeitsmarkt (6.10).\nAkerlof & Kranton: „Identity Economics” – Schaut die Interview-Auszüge (Video, New Economic Thinking) zu Organisationen und „Insiders” an. Kernfrage: Warum arbeiten Menschen manchmal mehr als vertraglich gefordert?\n\n\n\nWhiteboard-Aufgabe\nZeichnet das Labour Discipline Model (y-Achse: Arbeitseinsatz/Effort; x-Achse: Lohn). Zeichnet die Best-Response-Kurve des Arbeitnehmers ein. Markiert die Beschäftigungsrente. Skizziert daneben mit einem Pfeil, wie die Kurve sich verschiebt, wenn sich der Mitarbeiter als „Insider” mit dem Unternehmen identifiziert (Akerlof): Gleicher Effort bei niedrigerem Lohn – oder höherer Effort bei gleichem Lohn?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 6.6–6.10 zeigt, dass Arbeitgeber über dem Markträumungslohn zahlen müssen, damit Arbeitnehmer sich anstrengen (Effizienzlohn). Erklärt anhand des Textes: (a) Warum ist der Arbeitsvertrag „unvollständig” – was genau kann der Arbeitgeber nicht vertraglich festschreiben? (b) Warum muss der Arbeitgeber eine „Beschäftigungsrente” zahlen, und was hat die Angst vor Jobverlust damit zu tun? (c) Ergänzend: Welchen zusätzlichen Motivationsfaktor beschreiben Akerlof & Kranton, der über reine Kündigungsangst hinausgeht?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: In Zeiten von Home-Office und KI-Wissensarbeit – wird die Überwachung von Arbeitsleistung schwieriger oder einfacher? Was bedeutet das für das Labour Discipline Model?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 6.6–6.10 gelesen und Akerlof/Kranton-Video angesehen.\nLabour Discipline Model (inkl. „Insider”-Verschiebung) auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Institutionen, Macht und die Rolle von Wissen\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Informationsflüsse in Organisationen als Hierarchien vs. Netzwerke darstellen.\nInhaltlich: Ihr versteht die Rolle von Institutionen und Verhandlungsmacht (CORE) und Hayeks Argument, warum dezentrales Wissen für Märkte entscheidend ist.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 5, Abschnitte 5.1 bis 5.3 – Lest vollständig. Achtet auf die Definitionen von Institutionen (5.1), Macht und Verhandlungsmacht (5.2) und die Rolle von Verhandlungsmacht in wirtschaftlichen Beziehungen (5.3).\nF. A. Hayek: „The Use of Knowledge in Society” (1945) – Lest gezielt die Abschnitte II bis IV (ca. 6 Seiten). Kernfrage: Warum kann eine zentrale Planungsbehörde laut Hayek nicht effizient wirtschaften? Was meint er mit „knowledge of the particular circumstances of time and place”?\nBrynjolfsson & Hitzig: „AI’s Use of Knowledge in Society” (2025) – Lest die Einleitung und das Framework (Abschnitte 1–3, ca. 8 Seiten). Kernfrage: Wie verändert KI die Übertragbarkeit von lokalem Wissen?\n\n\n\nWhiteboard-Aufgabe\nZeichnet zwei Organisationsdiagramme: (a) Hayek-Modell: Dezentrale Einheiten (Filialmanager) haben lokales Wissen, das nicht übertragbar ist → Entscheidungen müssen dezentral bleiben. (b) KI-Modell (Brynjolfsson/Hitzig): KI kodifiziert lokales Wissen und überträgt es an die Zentrale → Zentralisierung wird möglich. Verwendet Pfeile für Informationsflüsse.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 5.1–5.3 zeigt, dass Institutionen und Machtstrukturen wirtschaftliche Ergebnisse bestimmen. Hayek argumentiert, dass der Preismechanismus dezentrales Wissen koordiniert, das keine zentrale Instanz besitzen kann. Erklärt anhand der Texte: (a) Was versteht Hayek unter „knowledge of the particular circumstances of time and place”, und warum ist dieses Wissen laut ihm nicht zentralisierbar? (b) Welche Rolle spielen „Institutionen” laut CORE 5.1–5.3 bei der Verteilung von Macht in wirtschaftlichen Beziehungen? (c) Wie argumentieren Brynjolfsson & Hitzig, dass KI Hayeks Annahme der Nicht-Übertragbarkeit verändern könnte?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Führt KI zu mehr Zentralisierung oder mehr Dezentralisierung in Unternehmen? Was bedeutet das für die Machtverteilung?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE 5.1–5.3, Hayek (Abschnitte II–IV) und Brynjolfsson/Hitzig (Einleitung + Framework) gelesen.\nInformationsfluss-Diagramm (Hayek vs. KI) auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Asymmetrische Information und das Lemons-Problem\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Modelle der asymmetrischen Information (Adverse Selection, Signaling) anwenden.\nInhaltlich: Ihr versteht, wie Informationsdefizite Märkte zerstören können (Lemons Problem) und welche Mechanismen dagegen helfen.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 10, Abschnitte 10.7 bis 10.10 – Lest vollständig. Achtet auf: Hidden-Action-Probleme (10.8), Versicherungsmärkte (10.9) und das Hidden-Attributes-Problem / Adverse Selection (10.10). Arbeitet die Beispiele durch (Gebrauchtwagenmarkt, Versicherung).\n\n\n\nWhiteboard-Aufgabe\nZeichnet das Adverse-Selection-Problem als Flussdiagramm: Verkäufer kennt die Qualität → Käufer kennt sie nicht → Käufer bietet Durchschnittspreis → Gute Verkäufer ziehen sich zurück → Durchschnittsqualität sinkt → Markt bricht zusammen. Notiert daneben: Welche Gegenmaßnahmen nennt der Text (Signaling, Screening)?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 10.7–10.10 zeigt verschiedene Formen von Informationsproblemen auf Märkten. Erklärt anhand des Textes: (a) Was ist der Unterschied zwischen „Hidden Action” (Moral Hazard) und „Hidden Attributes” (Adverse Selection)? Nennt je ein Beispiel aus dem Text. (b) Wie funktioniert der Markt-Zusammenbruch bei Adverse Selection (Lemons Problem): Warum ziehen sich gerade die guten Anbieter als Erste zurück? (c) Wie kann „Signaling” dieses Problem mildern – was macht ein Signal glaubwürdig?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Was passiert auf dem Arbeitsmarkt, wenn KI-generierte Bewerbungen es unmöglich machen, gute von schlechten Kandidaten zu unterscheiden? Ist das ein Lemons-Problem?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 10.7–10.10 gelesen.\nAdverse-Selection-Flussdiagramm auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-03/rev.html",
+    "href": "block-03/rev.html",
+    "title": "Block 3 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-02-technologie/rev.html#übungsaufgaben",
-    "href": "block-02-technologie/rev.html#übungsaufgaben",
-    "title": "Block 2 — Nachbereitung",
+    "objectID": "block-03/rev.html#übungsaufgaben",
+    "href": "block-03/rev.html#übungsaufgaben",
+    "title": "Block 3 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-02-technologie/rev.html#klausurvorbereitung",
-    "href": "block-02-technologie/rev.html#klausurvorbereitung",
-    "title": "Block 2 — Nachbereitung",
+    "objectID": "block-03/rev.html#klausurvorbereitung",
+    "href": "block-03/rev.html#klausurvorbereitung",
+    "title": "Block 3 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-02-technologie/rev.html#vertiefende-literatur-optional",
-    "href": "block-02-technologie/rev.html#vertiefende-literatur-optional",
-    "title": "Block 2 — Nachbereitung",
+    "objectID": "block-03/rev.html#vertiefende-literatur-optional",
+    "href": "block-03/rev.html#vertiefende-literatur-optional",
+    "title": "Block 3 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen."
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-02-technologie/lecture.html#lernziele",
-    "href": "block-02-technologie/lecture.html#lernziele",
-    "title": "Block 2 — Lecture",
+    "objectID": "block-03/block03-lecture-unternehmen-und-maerkte.html#section",
+    "href": "block-03/block03-lecture-unternehmen-und-maerkte.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 3 · Unternehmen und Märkte\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-03/block03-lecture-unternehmen-und-maerkte.html#lernziele",
+    "href": "block-03/block03-lecture-unternehmen-und-maerkte.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\nHier die Lernziele des Blocks auflisten."
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-02-technologie/lecture.html#platzhalter-folie",
-    "href": "block-02-technologie/lecture.html#platzhalter-folie",
-    "title": "Block 2 — Lecture",
-    "section": "Platzhalter-Folie",
-    "text": "Platzhalter-Folie\nInhalte folgen."
+    "objectID": "block-03/block03-lecture-unternehmen-und-maerkte.html#vielen-dank",
+    "href": "block-03/block03-lecture-unternehmen-und-maerkte.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-01-wohlstand/prep.html",
-    "href": "block-01-wohlstand/prep.html",
-    "title": "Block 1 — Vorbereitung",
+    "objectID": "block-02/prep.html",
+    "href": "block-02/prep.html",
+    "title": "Block 2 — Vorbereitung",
     "section": "",
-    "text": "Bitte lesen Sie vor der Sitzung:\n\nCORE Econ 2.0, Unit 1 (Abschnitte 1.1–1.4)\nAuszüge aus Sen (1999), Kapitel 1 (in den Kursmaterialien bereitgestellt)"
+    "text": "Block 2 öffnet die Werkzeugkiste der ökonomischen Entscheidungstheorie. Im Zentrum steht das Rational-Choice-Modell: Wie wählt ein Akteur unter Knappheit zwischen Alternativen? Wir bauen schrittweise das grafische Vokabular auf — Indifferenzkurven, Budgetrestriktion, Optimum als Tangentialpunkt — und fragen dann gleich kritisch nach: Wie weit trägt dieses Modell, wenn Menschen begrenzt rational handeln, kognitive Verzerrungen ihre Wahl prägen, oder wenn ökonomische Trugschlüsse (Lump of Labour) die öffentliche Debatte bestimmen?"
   },
   {
-    "objectID": "block-01-wohlstand/prep.html#reading-assignment",
-    "href": "block-01-wohlstand/prep.html#reading-assignment",
-    "title": "Block 1 — Vorbereitung",
+    "objectID": "block-02/prep.html#worum-es-geht",
+    "href": "block-02/prep.html#worum-es-geht",
+    "title": "Block 2 — Vorbereitung",
     "section": "",
-    "text": "Bitte lesen Sie vor der Sitzung:\n\nCORE Econ 2.0, Unit 1 (Abschnitte 1.1–1.4)\nAuszüge aus Sen (1999), Kapitel 1 (in den Kursmaterialien bereitgestellt)"
+    "text": "Block 2 öffnet die Werkzeugkiste der ökonomischen Entscheidungstheorie. Im Zentrum steht das Rational-Choice-Modell: Wie wählt ein Akteur unter Knappheit zwischen Alternativen? Wir bauen schrittweise das grafische Vokabular auf — Indifferenzkurven, Budgetrestriktion, Optimum als Tangentialpunkt — und fragen dann gleich kritisch nach: Wie weit trägt dieses Modell, wenn Menschen begrenzt rational handeln, kognitive Verzerrungen ihre Wahl prägen, oder wenn ökonomische Trugschlüsse (Lump of Labour) die öffentliche Debatte bestimmen?"
   },
   {
-    "objectID": "block-01-wohlstand/prep.html#vorbereitungsfragen",
-    "href": "block-01-wohlstand/prep.html#vorbereitungsfragen",
-    "title": "Block 1 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHalten Sie die Antworten auf diese Fragen schriftlich fest (je 2–3 Sätze). Wir greifen sie zu Beginn der Sitzung auf.\n\nWie würden Sie “Wohlstand” in Ihren eigenen Worten definieren?\nWelche drei Indikatoren hielten Sie für besonders aussagekräftig, um Wohlstand zwischen Ländern zu vergleichen?\nSen argumentiert, dass Entwicklung mehr ist als Einkommenswachstum. Was meint er damit?"
+    "objectID": "block-02/prep.html#so-arbeiten-wir",
+    "href": "block-02/prep.html#so-arbeiten-wir",
+    "title": "Block 2 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-01-wohlstand/prep.html#optionales-video",
-    "href": "block-01-wohlstand/prep.html#optionales-video",
-    "title": "Block 1 — Vorbereitung",
-    "section": "Optionales Video",
-    "text": "Optionales Video\n\n“The Great Divergence” (CORE Econ, 4:23 Min) — Link im Moodle"
+    "objectID": "block-02/prep.html#lernziele-für-die-präsenz",
+    "href": "block-02/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 2 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nConstrained Choice grafisch lösen und die Ergebnisse interpretieren können.\nEinkommens- vs. Substitutionseffekt unterscheiden und auf KI-induzierte Lohnänderungen anwenden.\nDen Lump-of-Labour-Trugschluss erkennen und in der Automatisierungsdebatte einordnen.\nDie Reichweite und Grenzen des Rational-Choice-Modells reflektieren."
+  },
+  {
+    "objectID": "block-02/prep.html#vorbereitungsaufträge",
+    "href": "block-02/prep.html#vorbereitungsaufträge",
+    "title": "Block 2 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Das Rational-Choice-Modell: Knappheit und optimale Wahl\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt ein Constrained-Choice-Problem grafisch lösen (Feasible Set, Indifferenzkurven, Optimum als Tangentialpunkt).\nInhaltlich: Ihr versteht die ökonomische Grundlogik: Akteure maximieren ihren Nutzen unter Nebenbedingungen (Budgetrestriktion).\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 3, Abschnitte 3.1 bis 3.6 – Lest diese Abschnitte vollständig. Achtet besonders auf die schrittweise Herleitung von Indifferenzkurven (3.3), dem Feasible Set (3.4) und dem Optimum (3.5). Arbeitet die interaktiven Abbildungen im Online-Text durch.\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Rational-Choice-Modell für die Arbeit-Freizeit-Entscheidung (y-Achse: Konsumgüter/Einkommen; x-Achse: Freizeit in Stunden pro Tag). Zeichnet die Budgetrestriktion und eine Indifferenzkurve ein. Markiert das Optimum (Tangentialpunkt) und beschriftet alle Achsen und Kurven.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nDas Constrained-Choice-Modell in CORE 3.1–3.6 zeigt, wie ein Akteur seine optimale Kombination aus Freizeit und Konsum findet. Erklärt anhand des Textes: (a) Warum ist das Optimum genau dort, wo die Indifferenzkurve die Budgetrestriktion tangiert (und nicht schneidet)? (b) Was bedeutet die Grenzrate der Substitution (MRS) ökonomisch, und warum muss sie im Optimum dem Lohnsatz entsprechen? Nutzt für eure Erklärung die Abbildungen aus dem Text.\n\n\nKI-Teaser (für die Präsenz)\nMacht euch Gedanken: Was passiert in eurem Modell, wenn KI-Software den Stundenlohn einer Person verdoppelt? Verschiebt sich die Budgetrestriktion – und wie?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 3.1–3.6 gelesen.\nRational-Choice-Modell auf dem Whiteboard gezeichnet und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Einkommens- und Substitutionseffekt und menschliche Autonomie\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt den Einkommens- und Substitutionseffekt einer Lohnänderung grafisch voneinander isolieren.\nInhaltlich: Ihr versteht, warum eine Lohnerhöhung nicht eindeutig zu mehr oder weniger Arbeit führt, und kennt die „Human Agency Scale” als empirisches Konzept.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 3, Abschnitte 3.7 bis 3.8 – Lest diese Abschnitte vollständig. Arbeitet die schrittweise Zerlegung in Einkommens- und Substitutionseffekt anhand der Abbildungen durch.\nShao et al.: „WORKBank” (2025) – Lest gezielt den Abschnitt zur Definition der Human Agency Scale (HAS), Stufen H1 bis H5 (Abschnitt 2.2, ca. 2 Seiten). Schaut euch Abbildung 7 an (Ranking nach Human Agency vs. Lohn).\n\n\n\nWhiteboard-Aufgabe\nZeichnet in ein Arbeit-Freizeit-Diagramm (wie in Gruppe 1) die Zerlegung einer Lohnerhöhung in Einkommenseffekt und Substitutionseffekt (mit Hilfslinie). Skizziert daneben die HAS-Skala (H1 = volle Automatisierung gewünscht bis H5 = volle menschliche Kontrolle gewünscht) und ordnet je ein Aufgabenbeispiel zu.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 3.7 zeigt, dass eine Lohnerhöhung zwei gegenläufige Effekte hat: Der Substitutionseffekt macht Freizeit „teurer” (man arbeitet mehr), der Einkommenseffekt macht es möglich, sich mehr Freizeit zu „leisten” (man arbeitet weniger). Erklärt anhand des Textes: (a) Unter welchen Bedingungen dominiert der Einkommenseffekt – wann arbeitet eine Person bei höherem Lohn also weniger? (b) Was zeigt die HAS-Skala von Shao et al. über die Frage, bei welchen Aufgabentypen Arbeitnehmer menschliche Kontrolle bevorzugen, auch wenn Automatisierung möglich wäre?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn KI euren Reallohn erhöht – würdet ihr eher mehr oder weniger arbeiten? Welche Aufgaben würdet ihr abgeben, welche nicht?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 3.7–3.8 und Shao et al. (HAS-Definition) gelesen.\nEinkommens-/Substitutionseffekt und HAS-Skala auf dem Whiteboard visualisiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Der Trugschluss der fixen Arbeitsmenge\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt einen verbreiteten ökonomischen Fehlschluss (Lump of Labour Fallacy) als solchen erkennen und argumentativ widerlegen.\nInhaltlich: Ihr versteht, warum die Arbeitsmenge in einer Volkswirtschaft nicht fix ist, und kennt das Konzept der „Abwärtskompatibilität” von Experten.\n\n\n\nLeseauftrag\n\nHazlitt: „Economics in One Lesson”, Kapitel 8 („Spread-the-Work Schemes”) – Lest das gesamte Kapitel (ca. 8 Seiten). Achtet auf Hazlitts Kernargument: Warum erhöht künstliche Arbeitszeitverkürzung die Stückkosten?\n**IAB-Interview mit David Autor: „Does automation replace experts or augment expertise?“** (2025) – Lest das gesamte Interview. Achtet auf Autors Konzept der „Abwärtskompatibilität”: Warum können Experten Aufgaben von weniger qualifizierten Arbeitern übernehmen, aber nicht umgekehrt?\n\n\n\nWhiteboard-Aufgabe\nFormuliert in Stichpunkten die „Lump of Labour Fallacy” (Es gibt nur eine feste Menge Arbeit, die verteilt werden muss) und zeichnet daneben Hazlitts Gegenargument als Kausalkette: Arbeitszeitverkürzung → höhere Stückkosten → höhere Preise → weniger Nachfrage → weniger Beschäftigung. Notiert daneben Autors „Abwärtskompatibilität” als Schutzmechanismus.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nHazlitt argumentiert gegen Arbeitszeitverkürzung als Mittel gegen Arbeitslosigkeit. Autor beschreibt, warum hoch qualifizierte Arbeitnehmer bei Automatisierung besser geschützt sind. Erklärt anhand der Texte: (a) Warum führt laut Hazlitt eine erzwungene Verkürzung der Arbeitszeit nicht zu mehr Beschäftigung, sondern zu höheren Kosten? (b) Was meint Autor mit „Abwärtskompatibilität” von Experten, und warum schützt hohe Expertise vor Verdrängung durch Automatisierung?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Sollte die Politik als Antwort auf KI die Arbeitszeit gesetzlich verkürzen? Was würden Hazlitt und Autor dazu sagen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nHazlitt Kap. 8 und Autor-Interview gelesen.\nLump-of-Labour-Widerlegung und Abwärtskompatibilität auf dem Whiteboard skizziert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Begrenzte Rationalität und kognitive Verzerrungen\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr lernt, systematische Abweichungen vom Modell des rationalen Nutzenmaximierers (Biases) zu identifizieren.\nInhaltlich: Ihr versteht Herbert Simons Konzept der „Bounded Rationality” und die Sunk Cost Fallacy als konkrete kognitive Verzerrung.\n\n\n\nLeseauftrag\n\nHerbert Simon: Nobelpreisrede 1978 – Lest gezielt die Abschnitte zu „Bounded Rationality” und „Subgoal Identification” (ca. die ersten 10 Seiten der Rede). Simons Kernfrage: Warum optimieren Menschen nicht wie der Homo oeconomicus, sondern nutzen Daumenregeln („satisficing”)?\nGoolsbee/Levitt/Syverson: Microeconomics, Kapitel 18 – Lest den Abschnitt zur Sunk Cost Fallacy (Behavioral and Experimental Economics). Achtet auf die Definition: Warum sind bereits entstandene und unwiderrufliche Kosten für rationale Entscheidungen irrelevant – und warum berücksichtigen Menschen sie trotzdem?\n\n\n\nWhiteboard-Aufgabe\nErstellt eine zweispaltige Gegenüberstellung: Spalte 1 – Homo oeconomicus: Optimiert vollständig, ignoriert Sunk Costs, hat unbegrenzte Informationsverarbeitung. Spalte 2 – Realer Mensch (Simon/Goolsbee): Satisficing statt Optimierung, fällt auf Sunk Costs herein, nutzt Daumenregeln. Tragt je ein Beispiel aus den Texten ein.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nDas Rational-Choice-Modell (Block 2, Gruppe 1) unterstellt, dass Menschen optimal entscheiden. Simon und Goolsbee zeigen Grenzen dieses Modells. Erklärt anhand der Texte: (a) Was versteht Simon unter „Satisficing”, und warum ist es laut ihm eine vernünftige Strategie unter Unsicherheit? (b) Was ist die Sunk Cost Fallacy laut Goolsbee, und warum ist sie aus Sicht des Rational-Choice-Modells irrational? Nennt jeweils ein konkretes Beispiel aus den Texten.\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Könnte KI helfen, kognitive Verzerrungen wie die Sunk Cost Fallacy zu überwinden – oder erzeugt sie neue Verzerrungen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nSimon (Fokusabschnitte) und Goolsbee Kap. 18 (Sunk Cost) gelesen.\nGegenüberstellung Homo oeconomicus vs. Realer Mensch auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-01/rev.html",
+    "href": "block-01/rev.html",
+    "title": "Block 1 — Nachbereitung",
+    "section": "",
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
+  },
+  {
+    "objectID": "block-01/rev.html#übungsaufgaben",
+    "href": "block-01/rev.html#übungsaufgaben",
+    "title": "Block 1 — Nachbereitung",
+    "section": "",
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
+  },
+  {
+    "objectID": "block-01/rev.html#klausurvorbereitung",
+    "href": "block-01/rev.html#klausurvorbereitung",
+    "title": "Block 1 — Nachbereitung",
+    "section": "Klausurvorbereitung",
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
+  },
+  {
+    "objectID": "block-01/rev.html#vertiefende-literatur-optional",
+    "href": "block-01/rev.html#vertiefende-literatur-optional",
+    "title": "Block 1 — Nachbereitung",
+    "section": "Vertiefende Literatur (optional)",
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#section",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 1 · Wohlstand und Ungleichheit\n\n\nProf. Dr. Jörg Schoder\n ISBA-University ·  jfschoder"
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#lernziele",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#lernziele",
+    "title": "Economics — Blended Learning",
+    "section": "Lernziele",
+    "text": "Lernziele\n\n Überblick\n\n\nDas historische Muster von Wohlstand und Ungleichheit verstehen\nDie Hockeystick-Kurve interpretieren können\nZusammenhang Technologie ↔︎ Institutionen ↔︎ Einkommen erklären"
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#agenda",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#agenda",
+    "title": "Economics — Blended Learning",
+    "section": "Agenda",
+    "text": "Agenda\n\n Überblick\n\n\n\n\n\n\n\n\nPhase\nInhalt\n\n\n\n\n10’\n Rückblick Vorbereitung\n\n\n30’\n Die Hockeystick-Kurve\n\n\n20’\n Internationale Ungleichheit\n\n\n30’\n Sens Capability Approach\n\n\n10’\n Ausblick"
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#zwischenfolie",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#zwischenfolie",
+    "title": "Economics — Blended Learning",
+    "section": "Zwischenfolie",
+    "text": "Zwischenfolie\n\nTeil 1 — Der große Sprung\n\nDas Rätsel der Hockeystick-Kurve\nReales BIP pro Kopf über 1000 Jahre\nWarum ab 1800?\n\nTeil 2 — Ungleichheit\n\nZwischen Ländern\nInnerhalb von Ländern\nSens Kritik am BIP"
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#zentrale-frage",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#zentrale-frage",
+    "title": "Economics — Blended Learning",
+    "section": "Zentrale Frage",
+    "text": "Zentrale Frage\n\n Die Hockeystick-Kurve\n\n\n\n\n\n\n\n\nDas Rätsel\n\n\nWarum verlief das reale BIP pro Kopf über Jahrhunderte flach — und warum seit ca. 1800 so steil?"
+  },
+  {
+    "objectID": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#vielen-dank",
+    "href": "block-01/block01-lecture-grundlagen-oekonomie-wohlstand.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nFragen über  ISBA-University ·  jfschoder"
   },
   {
     "objectID": "index.html#kurskonzept",
     "href": "index.html#kurskonzept",
     "title": "Economics — Blended Learning",
     "section": "Kurskonzept",
-    "text": "Kurskonzept\nDer Kurs kombiniert asynchrone Selbstlernphasen mit synchronen Präsenz-Sitzungen. Jeder thematische Block gliedert sich in drei Phasen: Vorbereitung (asynchron vor der Sitzung), Präsenz (synchrone Sitzung) und Nachbereitung (asynchron nach der Sitzung)."
+    "text": "Kurskonzept\nDer Kurs kombiniert asynchrone Selbstlernphasen mit synchronen Präsenz-Sitzungen. Jeder thematische Block gliedert sich in drei Phasen: Vorbereitung (asynchron vor der Sitzung), Präsenz (synchrone Sitzung) und Nachbereitung (asynchron nach der Sitzung).\nDie Vorbereitung folgt der Jigsaw-Methode — vier Gruppen bearbeiten parallel vier komplementäre Aufträge und führen ihre Erkenntnisse in der Präsenzsitzung zusammen. Details siehe Vorbereitungs-Seite des jeweiligen Blocks."
   },
   {
     "objectID": "index.html#blöcke",
     "href": "index.html#blöcke",
     "title": "Economics — Blended Learning",
     "section": "Blöcke",
-    "text": "Blöcke\n\n\n01\n\nWohlstand und Ungleichheit\nDie Hockeystick-Kurve, internationale und innerstaatliche Ungleichheit, Sens Capability Approach.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n02\n\nTechnologie und Anreize\nIndustrielle Revolution, Anreizstrukturen, technologischer Wandel von Cotton-Spinning bis generativer KI.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n03\n\nInstitutionen\nHayek zur Wissensfrage in Märkten, Ostrom zu polyzentrischer Governance, die Regeln des wirtschaftlichen Spiels.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n04\n\nMärkte: Angebot und Nachfrage\nPreisbildung, Wohlfahrt, Marktgleichgewicht — und wie Märkte scheitern können.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n05\n\nArbeit und Firmen\nLöhne als Incentive, Efficiency Wages, die Beschäftigungsrelation im Zeitalter von KI-Assistenz.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n06\n\nMarktversagen und Politik\nExternalitäten, öffentliche Güter, Umwelt- und Klimapolitik als Stresstest ökonomischen Denkens.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben"
+    "text": "Blöcke\n\n\n01\n\nWohlstand und Ungleichheit\nHockeystick-Kurve, Capability Approach, kreative Zerstörung, KI als historische Parallele.\n\n\n\nVorbereitungReading Assignment PräsenzPräsentationsfolien NachbereitungÜbungsaufgaben\n\n\n\n\n02\n\nMikroökonomische Entscheidungen\nRationale Wahl, Indifferenzkurven und Budgetrestriktion — und ihre Grenzen in der Verhaltensökonomik.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung\n\n\n\n\n03\n\nUnternehmen und Märkte\nKosten, Elastizität, Gewinnmaximierung. Wettbewerb vs. Marktmacht, Plattformökonomie.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung\n\n\n\n\n04\n\nInstitutionen und strategisches Verhalten\nSpieltheorie, asymmetrische Information, Hayek und Ostrom: Institutionen als ökonomische Variable.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung\n\n\n\n\n05\n\nMärkte und Marktversagen\nAngebot und Nachfrage, externe Effekte, öffentliche Güter, Klima- und Umweltpolitik.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung\n\n\n\n\n06\n\nMakroökonomische Grundlagen\nBIP, volkswirtschaftliche Gesamtrechnung, WS-PS-Modell, Wachstum vs. Konjunktur, Inflation.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung\n\n\n\n\n07\n\nKonjunktur und Stabilisierungspolitik\nMultiplikatormodell, Fiskalpolitik, Konsumglättung, Investitionsvolatilität, Rent-Seeking.\n\n\n\nVorbereitungReading Assignment PräsenzIn Vorbereitung NachbereitungIn Vorbereitung"
   },
   {
     "objectID": "index.html#lizenz-kontakt",
@@ -231,227 +343,290 @@
     "text": "Lizenz & Kontakt\nEigene Materialien: CC BY-SA 4.0. Zitate und Grafiken aus CORE Econ’s The Economy 2.0 unterliegen der Lizenz des jeweiligen Originalwerks.\nKontakt: name@isba-freiburg.de · Issue auf GitHub\n\n\n\n\nProf. Dr. Jörg Schoder"
   },
   {
-    "objectID": "block-01-wohlstand/lecture.html#lernziele",
-    "href": "block-01-wohlstand/lecture.html#lernziele",
-    "title": "Block 1 — Lecture",
+    "objectID": "block-01/prep.html",
+    "href": "block-01/prep.html",
+    "title": "Block 1 — Vorbereitung",
+    "section": "",
+    "text": "Block 1 verbindet eine empirische Beobachtung mit einer theoretischen Diskussion: Über Jahrhunderte stagnierte das BIP pro Kopf, dann setzte um 1800 ein beispielloser Anstieg ein — die Hockeystick-Kurve der Wirtschaftsgeschichte. Wir fragen, was diesen Sprung ausgelöst hat, wie der entstandene Wohlstand verteilt ist, und ob das BIP überhaupt ein guter Maßstab für Entwicklung sein kann. Der zeitgenössische Bezug: Wenn KI heute eine vergleichbare Welle technologischen Wandels auslöst — wer profitiert, wer verliert, und wonach beurteilen wir das?"
+  },
+  {
+    "objectID": "block-01/prep.html#worum-es-geht",
+    "href": "block-01/prep.html#worum-es-geht",
+    "title": "Block 1 — Vorbereitung",
+    "section": "",
+    "text": "Block 1 verbindet eine empirische Beobachtung mit einer theoretischen Diskussion: Über Jahrhunderte stagnierte das BIP pro Kopf, dann setzte um 1800 ein beispielloser Anstieg ein — die Hockeystick-Kurve der Wirtschaftsgeschichte. Wir fragen, was diesen Sprung ausgelöst hat, wie der entstandene Wohlstand verteilt ist, und ob das BIP überhaupt ein guter Maßstab für Entwicklung sein kann. Der zeitgenössische Bezug: Wenn KI heute eine vergleichbare Welle technologischen Wandels auslöst — wer profitiert, wer verliert, und wonach beurteilen wir das?"
+  },
+  {
+    "objectID": "block-01/prep.html#so-arbeiten-wir",
+    "href": "block-01/prep.html#so-arbeiten-wir",
+    "title": "Block 1 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
+  },
+  {
+    "objectID": "block-01/prep.html#lernziele-für-die-präsenz",
+    "href": "block-01/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 1 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nDen historischen Wachstumsschub in eigenen Worten erklären und mit Sens Capability-Ansatz kritisch hinterfragen.\nDie Mechanik kreativer Zerstörung mit Arthurs steigenden Grenzerträgen kontrastieren können.\nDas Acemoglu/Hazlitt-Spannungsfeld auf aktuelle KI-Szenarien anwenden — was ist Fluch der Maschine, was exzessive Automatisierung?"
+  },
+  {
+    "objectID": "block-01/prep.html#vorbereitungsaufträge",
+    "href": "block-01/prep.html#vorbereitungsaufträge",
+    "title": "Block 1 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Wohlstand, Ungleichheit und menschliche Befähigung\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr lernt, langfristige Wachstumstrends in Daten zu erkennen und kritisch zu hinterfragen, welche Dimensionen von „Entwicklung” das BIP pro Kopf erfasst – und welche nicht.\nInhaltlich: Ihr versteht den historischen Wohlstandssprung (den „Hockey Stick” der Geschichte) und kontrastiert diesen mit Amartya Sens Konzept der Capabilities (Befähigungen).\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 1 – lest die Abschnitte 1.1 bis 1.7 vollständig. Achtet besonders auf die Abbildungen zum „Hockey Stick” (Abschnitt 1.2) und die Diskussion zu Ungleichheit (1.4–1.5).\nAmartya Sen: „Development as Freedom” (Auszug: Introduction und Chapter 1) – Konzentriert euch auf Sens zwei zentrale Argumente: Freiheit als Ziel von Entwicklung (evaluative reason) und Freiheit als Mittel (effectiveness reason). Überfliegt die empirischen Beispiele, lest die Argumentation genau.\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Koordinatensystem (x-Achse: Zeit über die letzten 1.000 Jahre; y-Achse: BIP pro Kopf). Skizziert den exponentiellen Anstieg aus CORE Kap. 1. Notiert rechts daneben Sens zwei Hauptargumente (evaluative reason / effectiveness reason) in eigenen Worten als Stichpunkte.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Kap. 1 zeigt, dass das BIP pro Kopf über Jahrhunderte stagnierte und dann ab ca. 1800 explosiv anstieg. Gleichzeitig zeigt Abschnitt 1.4, dass dieser Wohlstandsgewinn extrem ungleich verteilt war und ist. Sen argumentiert in Kapitel 1, dass Entwicklung nicht allein am Einkommen gemessen werden sollte. Erklärt anhand der Texte: (a) Welche konkreten Beispiele nennt Sen, um zu zeigen, dass hohes Einkommen nicht automatisch zu Freiheit/Wohlbefinden führt? (b) Warum unterscheidet Sen zwischen Freiheit als Ziel und Freiheit als Mittel, und wie hängen diese beiden Perspektiven zusammen?\n\n\nKI-Teaser (für die Präsenz)\nMacht euch Gedanken: Wenn KI das BIP pro Kopf steigert – steigert sie dann automatisch auch die „Capabilities” im Sinne Sens? Oder könnte sie manche Befähigungen sogar einschränken?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 1 (1.1–1.7) und Sen-Auszüge gelesen.\nWhiteboard-Grafik (Hockey Stick + Sen-Stichpunkte) fotografiert/hochgeladen.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Innovation, kreative Zerstörung und steigende Grenzerträge\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr lernt die ökonomischen Grundbegriffe Opportunitätskosten, Innovationsrenten und kreative Zerstörung kennen und könnt sie in eigenen Worten erklären.\nInhaltlich: Ihr versteht, warum Unternehmen Technologien einführen, und lernt den Unterschied zwischen neoklassischer Gleichgewichtslogik und der Perspektive steigender Grenzerträge (Complexity Economics) kennen.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 2 – lest die Abschnitte 2.1 bis 2.6 vollständig. Achtet besonders auf die Konzepte „Innovationsrente” (2.3) und „kreative Zerstörung” (2.5).\nW. Brian Arthur: „Foundations of complexity economics” (Nature Reviews Physics) – Lest gezielt die Abschnitte zu „Increasing Returns” und „Positive Feedbacks” (ca. S. 2–6 des Artikels). Überfliegt die übrigen Abschnitte, um den Gesamtkontext zu erfassen.\n\n\n\nWhiteboard-Aufgabe\nErstellt eine zweispaltige Gegenüberstellung (Matrix): Spalte 1 – Neoklassik: Abnehmende Grenzerträge → Gleichgewicht → Viele Anbieter. Spalte 2 – Arthur (Complexity Economics): Steigende Grenzerträge → Positive Feedbacks → Lock-in/Monopol. Tragt zu jeder Spalte ein Beispiel aus den Texten ein.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Kap. 2 erklärt, dass Unternehmen durch Innovationsrenten Anreize haben, neue Technologien einzuführen, und dass dieser Prozess durch kreative Zerstörung alte Technologien verdrängt. Arthur beschreibt dagegen, dass in Märkten mit steigenden Grenzerträgen (z. B. Software) positive Feedbacks dazu führen, dass sich ein Anbieter durchsetzt und andere verdrängt werden – nicht weil er besser ist, sondern weil er zuerst da war (Path Dependence). Erklärt anhand der Texte: (a) Was versteht CORE unter einer „Innovationsrente”, und warum ist sie zeitlich begrenzt? (b) Was versteht Arthur unter „Positive Feedbacks”, und warum führen sie laut seinem Argument nicht zu dem Gleichgewicht, das die Neoklassik vorhersagt?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Sind KI-Softwaremärkte ein Beispiel für Arthurs steigende Grenzerträge? Was könnte das für den Wettbewerb zwischen KI-Anbietern bedeuten?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 2 (2.1–2.6) und Arthur (Fokusabschnitte) gelesen.\nMatrix (Neoklassik vs. Complexity) auf dem Whiteboard erstellt und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Der Fluch der Maschine vs. exzessive Automatisierung\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr lernt, ökonomische Kausalitätsketten zu rekonstruieren und die Unterscheidung zwischen kurzfristigen und langfristigen Effekten zu treffen.\nInhaltlich: Ihr versteht Hazlitts Argument, dass Technologie langfristig allen nützt, und kontrastiert es mit Acemoglus Warnung vor „exzessiver Automatisierung”.\n\n\n\nLeseauftrag\n\nHazlitt: „Economics in One Lesson”, Kapitel 7 („The Curse of Machinery”) – Lest das gesamte Kapitel (ca. 10 Seiten). Achtet auf den Unterschied zwischen dem, was man „sieht” (Jobverluste), und dem, was man „nicht sieht” (Preissenkungen, neue Jobs).\nAcemoglu & Johnson: „Die Geschichte zeigt uns die Zukunft mit KI” (Project Syndicate) – Lest den gesamten Artikel (kurz, ca. 3 Seiten). Achtet auf den Begriff „exzessive Automatisierung” und das historische Beispiel des Webstuhls.\n\n\n\nWhiteboard-Aufgabe\nBaut zwei parallele Kausalketten (Flussdiagramme mit Pfeilen): Strang 1 (Hazlitt): Neue Maschine → Kosten sinken → Preise sinken → Kaufkraft steigt → Nachfrage steigt → neue Jobs. Strang 2 (Acemoglu): Neue Maschine → Arbeit wird ersetzt → Löhne sinken → keine neuen Aufgaben entstehen → Verarmung. Markiert den Punkt, an dem sich die beiden Ketten unterscheiden.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nHazlitt argumentiert, dass Maschinen langfristig nicht Arbeitsplätze vernichten, sondern Kaufkraft schaffen. Acemoglu & Johnson warnen dagegen mit historischen Beispielen, dass Technologie unter bestimmten Bedingungen zur Verarmung breiter Schichten führen kann. Erklärt anhand der Texte: (a) Welche zentrale Annahme macht Hazlitt, damit seine Kausalkette funktioniert (Hinweis: Was passiert mit dem eingesparten Geld der Unternehmer)? (b) Welchen Faktor nennen Acemoglu & Johnson, der darüber entscheidet, ob Technologie den Arbeitern nützt oder schadet?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Ist KI eher ein Fall für Hazlitts Optimismus oder für Acemoglus Warnung? Was müsste passieren, damit KI „neue Aufgaben” schafft statt nur alte zu automatisieren?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nHazlitt Kap. 7 und Acemoglu/Johnson-Artikel gelesen.\nKausalitätsdiagramm auf dem Whiteboard erstellt und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Die Empirie – Wer profitiert wirklich von generativer KI?\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr lernt, empirische Studienergebnisse zu lesen und die Kernaussagen aus Abstract, Einleitung und Fazit eines wissenschaftlichen Papers zu extrahieren.\nInhaltlich: Ihr versteht die konkreten Auswirkungen generativer KI auf Produktivitätsunterschiede in der Belegschaft und kennt erste Daten zur tatsächlichen KI-Nutzung am Arbeitsplatz.\n\n\n\nLeseauftrag\n\nBrynjolfsson, Li & Raymond: „Generative AI at Work” (2024) – Lest Abstract, Einleitung (Abschnitt 1), Ergebnisübersicht (Abschnitt 3, besonders Abbildungen 2 und 3) und Fazit (Abschnitt 6). Überfliegt die Methodik.\nShao et al.: „WORKBank: AI Agent Desire-Capability Landscape” (2025) – Lest die Einleitung und den Abschnitt zur Definition der „Human Agency Scale (HAS)” (Abschnitt 2, ca. 3 Seiten). Schaut euch Abbildung 4 an.\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Diagramm (x-Achse: Erfahrung/Skill-Level von „niedrig” bis „hoch”; y-Achse: Produktivitätszuwachs durch KI in %). Tragt die Kernaussage aus Brynjolfssons Studie als Kurve ein: Wo liegt der größte Produktivitätszuwachs? Wo der geringste?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nBrynjolfsson et al. untersuchen die Einführung eines KI-Tools bei Kundenservice-Mitarbeitern. (a) Welche Mitarbeitergruppe profitiert laut den Daten am stärksten von der KI-Unterstützung, und welche am wenigsten? (b) Welche Erklärung geben die Autoren dafür, dass KI den Leistungsunterschied zwischen erfahrenen und unerfahrenen Mitarbeitern verringert (Hinweis: Was „lernt” das KI-Modell)? (c) Was zeigt die Human Agency Scale (HAS) von Shao et al. darüber, bei welchen Aufgaben Arbeitnehmer KI-Unterstützung wünschen und bei welchen nicht?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn KI besonders die Leistung von Anfängern steigert – warum könnten Unternehmen trotzdem weniger Anfänger einstellen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nBrynjolfsson et al. (Fokusabschnitte) und Shao et al. (Einleitung + HAS) gelesen.\nVerteilungs-Diagramm auf dem Whiteboard gezeichnet und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#section",
+    "href": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 2 · Mikroökonomische Entscheidungen\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#lernziele",
+    "href": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\n\nDas historische Muster von Wohlstand und Ungleichheit verstehen\nDie “Hockeystick-Kurve” interpretieren können\nZusammenhang Technologie ↔︎ Institutionen ↔︎ Einkommen erklären"
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-01-wohlstand/lecture.html#die-hockeystick-kurve",
-    "href": "block-01-wohlstand/lecture.html#die-hockeystick-kurve",
-    "title": "Block 1 — Lecture",
-    "section": "Die Hockeystick-Kurve",
-    "text": "Die Hockeystick-Kurve\n\n\n\n\n\n\n\nZentrale Frage\n\n\nWarum verlief das reale BIP pro Kopf über Jahrhunderte flach — und warum seit ca. 1800 so steil?"
+    "objectID": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#vielen-dank",
+    "href": "block-02/block02-lecture-rationale-wahl-und-verhaltensoekonomik.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-01-wohlstand/lecture.html#diskussion",
-    "href": "block-01-wohlstand/lecture.html#diskussion",
-    "title": "Block 1 — Lecture",
-    "section": "Diskussion",
-    "text": "Diskussion\nThink–Pair–Share (10 Min)\nNennen Sie drei Faktoren, die das Wirtschaftswachstum in Ihrem Herkunftsland besonders geprägt haben."
-  },
-  {
-    "objectID": "block-01-wohlstand/lecture.html#ausblick",
-    "href": "block-01-wohlstand/lecture.html#ausblick",
-    "title": "Block 1 — Lecture",
-    "section": "Ausblick",
-    "text": "Ausblick\nIm nächsten Block:\n\nWas war die Industrielle Revolution?\nWelche Rolle spielten Anreize?\nWie entstanden neue Technologien?"
-  },
-  {
-    "objectID": "block-01-wohlstand/rev.html",
-    "href": "block-01-wohlstand/rev.html",
-    "title": "Block 1 — Nachbereitung",
+    "objectID": "block-02/rev.html",
+    "href": "block-02/rev.html",
+    "title": "Block 2 — Nachbereitung",
     "section": "",
-    "text": "Erklären Sie in eigenen Worten, warum die Darstellung des historischen BIP pro Kopf auf einer logarithmischen Skala als “Hockeystick” bezeichnet wird. Welche ökonomischen Prozesse stehen hinter dem markanten Knick um ca. 1800?\n\n\n\nDiskutieren Sie anhand eines selbst gewählten Länderpaars den Unterschied zwischen internationaler und innerstaatlicher Ungleichheit.\n\n\n\nAmartya Sen argumentiert, dass Entwicklung mehr ist als Einkommenswachstum. Nennen Sie drei konkrete “Capabilities” und erläutern Sie, warum sie mit BIP-Daten nur unzureichend erfasst werden."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-01-wohlstand/rev.html#übungsaufgaben",
-    "href": "block-01-wohlstand/rev.html#übungsaufgaben",
-    "title": "Block 1 — Nachbereitung",
+    "objectID": "block-02/rev.html#übungsaufgaben",
+    "href": "block-02/rev.html#übungsaufgaben",
+    "title": "Block 2 — Nachbereitung",
     "section": "",
-    "text": "Erklären Sie in eigenen Worten, warum die Darstellung des historischen BIP pro Kopf auf einer logarithmischen Skala als “Hockeystick” bezeichnet wird. Welche ökonomischen Prozesse stehen hinter dem markanten Knick um ca. 1800?\n\n\n\nDiskutieren Sie anhand eines selbst gewählten Länderpaars den Unterschied zwischen internationaler und innerstaatlicher Ungleichheit.\n\n\n\nAmartya Sen argumentiert, dass Entwicklung mehr ist als Einkommenswachstum. Nennen Sie drei konkrete “Capabilities” und erläutern Sie, warum sie mit BIP-Daten nur unzureichend erfasst werden."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-01-wohlstand/rev.html#klausurvorbereitung",
-    "href": "block-01-wohlstand/rev.html#klausurvorbereitung",
-    "title": "Block 1 — Nachbereitung",
+    "objectID": "block-02/rev.html#klausurvorbereitung",
+    "href": "block-02/rev.html#klausurvorbereitung",
+    "title": "Block 2 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nEine Musterfrage zum Block:\n\nErläutern Sie, wie sich Technologie, Institutionen und Einkommen gegenseitig beeinflussen. Illustrieren Sie Ihre Argumentation an einem historischen Beispiel."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-01-wohlstand/rev.html#vertiefende-literatur-optional",
-    "href": "block-01-wohlstand/rev.html#vertiefende-literatur-optional",
-    "title": "Block 1 — Nachbereitung",
+    "objectID": "block-02/rev.html#vertiefende-literatur-optional",
+    "href": "block-02/rev.html#vertiefende-literatur-optional",
+    "title": "Block 2 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\n\nAcemoglu, Daron und Johnson, Simon: Power and Progress (2023)\nSen, Amartya: Development as Freedom (1999), Kapitel 2"
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-02-technologie/prep.html",
-    "href": "block-02-technologie/prep.html",
-    "title": "Block 2 — Vorbereitung",
+    "objectID": "block-03/prep.html",
+    "href": "block-03/prep.html",
+    "title": "Block 3 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 3 wechselt die Perspektive vom einzelnen Konsumenten zum Unternehmen. Warum gibt es Unternehmen überhaupt — und warum sind manche groß? Wir untersuchen die Kostenstruktur (Skaleneffekte, Fixkosten), die Nachfrageseite (Elastizität als Schlüsselbegriff), und das Zusammenspiel beider in der Gewinnmaximierung. Daraus ergibt sich die zentrale Frage des Blocks: Wann ist ein Markt wettbewerblich, wann monopolisiert — und welche Wohlfahrtsfolgen hat das? Die KI-Brücke: Plattformökonomie und Skaleneffekte digitaler Märkte machen diese Fragen heute aktueller denn je."
   },
   {
-    "objectID": "block-02-technologie/prep.html#reading-assignment",
-    "href": "block-02-technologie/prep.html#reading-assignment",
-    "title": "Block 2 — Vorbereitung",
+    "objectID": "block-03/prep.html#worum-es-geht",
+    "href": "block-03/prep.html#worum-es-geht",
+    "title": "Block 3 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 3 wechselt die Perspektive vom einzelnen Konsumenten zum Unternehmen. Warum gibt es Unternehmen überhaupt — und warum sind manche groß? Wir untersuchen die Kostenstruktur (Skaleneffekte, Fixkosten), die Nachfrageseite (Elastizität als Schlüsselbegriff), und das Zusammenspiel beider in der Gewinnmaximierung. Daraus ergibt sich die zentrale Frage des Blocks: Wann ist ein Markt wettbewerblich, wann monopolisiert — und welche Wohlfahrtsfolgen hat das? Die KI-Brücke: Plattformökonomie und Skaleneffekte digitaler Märkte machen diese Fragen heute aktueller denn je."
   },
   {
-    "objectID": "block-02-technologie/prep.html#vorbereitungsfragen",
-    "href": "block-02-technologie/prep.html#vorbereitungsfragen",
-    "title": "Block 2 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHier 2–3 Fragen formulieren, die die Studierenden schriftlich vorbereiten. Sie werden zu Beginn der Sitzung aufgegriffen.\n\n…\n…\n…"
+    "objectID": "block-03/prep.html#so-arbeiten-wir",
+    "href": "block-03/prep.html#so-arbeiten-wir",
+    "title": "Block 3 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-02-technologie/prep.html#optionale-ressourcen",
-    "href": "block-02-technologie/prep.html#optionale-ressourcen",
-    "title": "Block 2 — Vorbereitung",
-    "section": "Optionale Ressourcen",
-    "text": "Optionale Ressourcen\nVideos, Podcasts, weiterführende Artikel …"
+    "objectID": "block-03/prep.html#lernziele-für-die-präsenz",
+    "href": "block-03/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 3 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nKostenstrukturen (fix, variabel, durchschnittlich, marginal) anwenden können.\nPreiselastizität berechnen und interpretieren.\nDen Wohlfahrtsverlust eines Monopols grafisch darstellen.\nDen Übergang von perfekter Konkurrenz zu monopolistischer Konkurrenz und Marktmacht nachvollziehen."
   },
   {
-    "objectID": "block-03-institutionen/lecture.html#lernziele",
-    "href": "block-03-institutionen/lecture.html#lernziele",
-    "title": "Block 3 — Lecture",
+    "objectID": "block-03/prep.html#vorbereitungsaufträge",
+    "href": "block-03/prep.html#vorbereitungsaufträge",
+    "title": "Block 3 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Warum Unternehmen groß sind – Kosten und Kostenstruktur\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt die Kostenfunktion einer Firma (Gesamtkosten, fixe Kosten, variable Kosten) grafisch darstellen.\nInhaltlich: Ihr versteht, warum große Unternehmen Kostenvorteile haben und welche Rolle fixe und variable Kosten dabei spielen.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 7, Abschnitte 7.1 bis 7.3 – Lest vollständig. Achtet besonders auf die Unterscheidung von fixen und variablen Kosten (7.2), die Kostenfunktion „Beautiful Cars” (Abbildungen 7.7 und 7.8) und die Bedeutung von Skaleneffekten für die Unternehmensgröße (7.3).\n\n\n\nWhiteboard-Aufgabe\nZeichnet die Kostenkurven des Beispielunternehmens „Beautiful Cars” aus CORE 7.2: (a) Gesamtkostenkurve (y-Achse: Kosten; x-Achse: Menge), (b) daneben Durchschnittskosten- und Grenzkostenkurve. Beschriftet fixe Kosten, variable Kosten und markiert, wo die Durchschnittskosten ihr Minimum erreichen.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 7.1–7.3 zeigt, dass große Unternehmen wie Walmart oder Samsung die Wirtschaft dominieren. Erklärt anhand des Textes: (a) CORE nennt in Abschnitt 7.2 konkrete Beispiele für fixe und variable Kosten bei „Beautiful Cars”. Welche sind das, und warum sinken die Durchschnittskosten (Abbildung 7.7) mit steigender Produktionsmenge? (b) Betrachtet Abbildung 7.8: Warum schneidet die Grenzkostenkurve die Durchschnittskostenkurve genau in deren Minimum? Erklärt den Zusammenhang in eigenen Worten.\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wie sieht die Kostenstruktur eines KI-Unternehmens aus (z. B. OpenAI oder Anthropic)? Hohe Fixkosten für Training – aber was sind die variablen Kosten pro Nutzeranfrage?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 7.1–7.3 gelesen.\nKostenkurven auf dem Whiteboard gezeichnet und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Nachfrage, Elastizität und Erlöse\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt die Preiselastizität der Nachfrage berechnen, grafisch ablesen und ihre Bedeutung für Erlöse erklären.\nInhaltlich: Ihr versteht den Zusammenhang zwischen Elastizität, Grenzerlös und der Preissetzungsmacht einer Firma.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 7, Abschnitte 7.4 bis 7.5 – Lest vollständig. Arbeitet besonders die Berechnung der Elastizität (Abbildung 7.10/7.11) und den Zusammenhang zwischen Elastizität und Erlös (Abbildung 7.13) durch.\n\n\n\nWhiteboard-Aufgabe\nZeichnet eine lineare Nachfragekurve (y-Achse: Preis; x-Achse: Menge). Markiert darauf den elastischen Bereich (|ε| &gt; 1), den Punkt der Einheitselastizität (|ε| = 1) und den unelastischen Bereich (|ε| &lt; 1). Notiert daneben: In welchem Bereich steigt der Erlös bei Preissenkung, in welchem sinkt er?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 7.4–7.5 führt die Preiselastizität der Nachfrage als zentrale Kennzahl ein. Erklärt anhand des Textes: (a) CORE berechnet in Abbildung 7.10 die Elastizität an einem konkreten Punkt der Nachfragekurve. Beschreibt den Rechenweg aus der Abbildung in eigenen Worten: Welche zwei Größen werden ins Verhältnis gesetzt? (b) Abbildung 7.13 zeigt den Zusammenhang zwischen Elastizität und Erlös. Warum würde eine gewinnmaximierende Firma niemals einen Preis im unelastischen Bereich der Nachfragekurve setzen – was passiert dort mit dem Grenzerlös?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Ist die Nachfrage nach KI-Dienstleistungen (z. B. ChatGPT-Abonnements) eher elastisch oder unelastisch? Wovon könnte das abhängen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 7.4–7.5 gelesen.\nNachfragekurve mit Elastizitätsbereichen auf dem Whiteboard gezeichnet.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Gewinnmaximierung, Surplus und Wohlfahrtsverlust\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das Gewinnmaximum grafisch und verbal herleiten (MR = MC) und den Wohlfahrtsverlust (Deadweight Loss) bestimmen.\nInhaltlich: Ihr versteht, warum ein Preis über den Grenzkosten zu einem gesellschaftlichen Wohlfahrtsverlust führt.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 7, Abschnitte 7.6 bis 7.7 – Lest vollständig. Arbeitet die Herleitung des Gewinnmaximums über Isoprofitlinien und die MR=MC-Bedingung durch (Abbildungen 7.15–7.18). Versteht die Aufteilung in Konsumentenrente, Produzentenrente und Deadweight Loss (Abbildung 7.20).\n\n\n\nWhiteboard-Aufgabe\nZeichnet das Gewinnmaximierungsdiagramm aus CORE 7.6: Nachfragekurve, Grenzkostenlinie, Grenzerlöskurve. Markiert die gewinnmaximierende Menge (MR = MC) und den zugehörigen Preis. Schraffiert in einem zweiten Diagramm (wie Abb. 7.20): Konsumentenrente, Produzentenrente und den Deadweight Loss.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 7.6–7.7 zeigt, wie eine Firma mit Marktmacht ihren Gewinn maximiert – und warum das zu einem gesellschaftlichen Problem führt. Erklärt anhand des Textes: (a) Warum maximiert die Firma ihren Gewinn genau dort, wo Grenzerlös = Grenzkosten (MR = MC)? Was passiert, wenn sie mehr oder weniger produziert? (b) Warum entsteht durch den Preis über Grenzkosten ein Deadweight Loss – wer verliert dabei, und was genau geht „verloren”?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn ein KI-Monopolist (z. B. ein dominanter Cloud-Anbieter) den Preis weit über seine Grenzkosten setzt – wie groß könnte der Deadweight Loss für die Gesellschaft sein?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 7.6–7.7 gelesen.\nGewinnmaximierung und DWL-Diagramm auf dem Whiteboard gezeichnet.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Wettbewerb, Produktdifferenzierung und Marktmacht\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt erklären, wie der Grad des Wettbewerbs die Preiselastizität und damit den Preisaufschlag (Markup) einer Firma beeinflusst.\nInhaltlich: Ihr versteht, warum Produktdifferenzierung Marktmacht erzeugt und welche Rolle Markteintrittsbarrieren spielen.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 7, Abschnitte 7.8 bis 7.9 – Lest vollständig. Achtet auf den Zusammenhang zwischen Anzahl der Wettbewerber, Elastizität und Markup (Abbildung 7.22). Versteht, wie Firmen durch Produktdifferenzierung und Werbung ihre Nachfragekurve verschieben (7.9).\n\n\n\nWhiteboard-Aufgabe\nZeichnet zwei Nachfragekurven für dasselbe Produkt: eine steilere (wenig Wettbewerb, geringe Elastizität, hoher Markup) und eine flachere (viel Wettbewerb, hohe Elastizität, niedriger Markup). Markiert den jeweiligen Gewinnmaximierungspunkt und den Preisaufschlag über den Grenzkosten.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 7.8–7.9 zeigt, dass die Marktmacht einer Firma davon abhängt, wie viele und wie ähnliche Konkurrenten sie hat. Erklärt anhand des Textes: (a) Warum führt mehr Wettbewerb zu einer elastischeren Nachfragekurve und damit zu einem niedrigeren Markup? (b) Wie können Firmen laut CORE 7.9 durch Produktdifferenzierung (z. B. Markenbildung, Werbung) ihre Marktmacht aktiv erhöhen? Nennt ein Beispiel aus dem Text.\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wie differenzieren sich KI-Anbieter (OpenAI, Google, Anthropic) voneinander? Ist KI ein „differenziertes Produkt” oder ein „Commodity”?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 7.8–7.9 gelesen.\nNachfragekurven-Vergleich auf dem Whiteboard gezeichnet.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#section",
+    "href": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 4 · Institutionen und strategisches Verhalten\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#lernziele",
+    "href": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\nHier die Lernziele des Blocks auflisten."
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-03-institutionen/lecture.html#platzhalter-folie",
-    "href": "block-03-institutionen/lecture.html#platzhalter-folie",
-    "title": "Block 3 — Lecture",
-    "section": "Platzhalter-Folie",
-    "text": "Platzhalter-Folie\nInhalte folgen."
+    "objectID": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#vielen-dank",
+    "href": "block-04/block04-lecture-soziale-dilemmata-institutionen.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-03-institutionen/rev.html",
-    "href": "block-03-institutionen/rev.html",
-    "title": "Block 3 — Nachbereitung",
+    "objectID": "block-04/rev.html",
+    "href": "block-04/rev.html",
+    "title": "Block 4 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-03-institutionen/rev.html#übungsaufgaben",
-    "href": "block-03-institutionen/rev.html#übungsaufgaben",
-    "title": "Block 3 — Nachbereitung",
+    "objectID": "block-04/rev.html#übungsaufgaben",
+    "href": "block-04/rev.html#übungsaufgaben",
+    "title": "Block 4 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-03-institutionen/rev.html#klausurvorbereitung",
-    "href": "block-03-institutionen/rev.html#klausurvorbereitung",
-    "title": "Block 3 — Nachbereitung",
+    "objectID": "block-04/rev.html#klausurvorbereitung",
+    "href": "block-04/rev.html#klausurvorbereitung",
+    "title": "Block 4 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-03-institutionen/rev.html#vertiefende-literatur-optional",
-    "href": "block-03-institutionen/rev.html#vertiefende-literatur-optional",
-    "title": "Block 3 — Nachbereitung",
+    "objectID": "block-04/rev.html#vertiefende-literatur-optional",
+    "href": "block-04/rev.html#vertiefende-literatur-optional",
+    "title": "Block 4 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen."
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-04-maerkte/prep.html",
-    "href": "block-04-maerkte/prep.html",
-    "title": "Block 4 — Vorbereitung",
+    "objectID": "block-05/prep.html",
+    "href": "block-05/prep.html",
+    "title": "Block 5 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 5 führt das ökonomische Standardmodell von Angebot und Nachfrage rigoros ein und zeigt zugleich seine Grenzen. Wir analysieren das Wettbewerbsgleichgewicht, untersuchen, wie exogene Schocks und staatliche Eingriffe (Steuern, Preiskontrollen) Märkte verschieben, und wenden uns dann den Fällen zu, in denen Märkte versagen: externe Effekte, öffentliche Güter, Tragedy of the Commons. Klima- und Umweltpolitik sind die zentralen Anwendungsfelder — und die Pigou-Steuer wird zum konzeptionellen Schlüssel."
   },
   {
-    "objectID": "block-04-maerkte/prep.html#reading-assignment",
-    "href": "block-04-maerkte/prep.html#reading-assignment",
-    "title": "Block 4 — Vorbereitung",
+    "objectID": "block-05/prep.html#worum-es-geht",
+    "href": "block-05/prep.html#worum-es-geht",
+    "title": "Block 5 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 5 führt das ökonomische Standardmodell von Angebot und Nachfrage rigoros ein und zeigt zugleich seine Grenzen. Wir analysieren das Wettbewerbsgleichgewicht, untersuchen, wie exogene Schocks und staatliche Eingriffe (Steuern, Preiskontrollen) Märkte verschieben, und wenden uns dann den Fällen zu, in denen Märkte versagen: externe Effekte, öffentliche Güter, Tragedy of the Commons. Klima- und Umweltpolitik sind die zentralen Anwendungsfelder — und die Pigou-Steuer wird zum konzeptionellen Schlüssel."
   },
   {
-    "objectID": "block-04-maerkte/prep.html#vorbereitungsfragen",
-    "href": "block-04-maerkte/prep.html#vorbereitungsfragen",
-    "title": "Block 4 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHier 2–3 Fragen formulieren, die die Studierenden schriftlich vorbereiten. Sie werden zu Beginn der Sitzung aufgegriffen.\n\n…\n…\n…"
+    "objectID": "block-05/prep.html#so-arbeiten-wir",
+    "href": "block-05/prep.html#so-arbeiten-wir",
+    "title": "Block 5 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-04-maerkte/prep.html#optionale-ressourcen",
-    "href": "block-04-maerkte/prep.html#optionale-ressourcen",
-    "title": "Block 4 — Vorbereitung",
-    "section": "Optionale Ressourcen",
-    "text": "Optionale Ressourcen\nVideos, Podcasts, weiterführende Artikel …"
+    "objectID": "block-05/prep.html#lernziele-für-die-präsenz",
+    "href": "block-05/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 5 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nMarktgleichgewichte grafisch und algebraisch bestimmen.\nWohlfahrtswirkungen von Steuern und Preiskontrollen analysieren.\nExterne Effekte erkennen und Pigou-Steuern als Korrekturinstrument verstehen.\nÖffentliche Güter und Allmendegüter mit Ostroms Governance-Lösungen verbinden."
   },
   {
-    "objectID": "block-05-arbeit/lecture.html#lernziele",
-    "href": "block-05-arbeit/lecture.html#lernziele",
-    "title": "Block 5 — Lecture",
+    "objectID": "block-05/prep.html#vorbereitungsaufträge",
+    "href": "block-05/prep.html#vorbereitungsaufträge",
+    "title": "Block 5 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Angebot, Nachfrage und das Wettbewerbsgleichgewicht\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das Angebot-Nachfrage-Modell zeichnen, das Gleichgewicht bestimmen und Kurvenverschiebungen analysieren.\nInhaltlich: Ihr versteht die Preisbildung auf Wettbewerbsmärkten und den Unterschied zwischen Preissetzern (Unit 7) und Preisnehmern.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 8, Abschnitte 8.1 bis 8.7 – Lest vollständig. Achtet auf: die Herleitung von Nachfrage- und Angebotskurve (8.2), das Konzept des Wettbewerbsgleichgewichts und der Preisnehmer (8.3), den Markteintritt und das langfristige Gleichgewicht (8.6–8.7).\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Angebot-Nachfrage-Diagramm. Markiert das Gleichgewicht (Preis und Menge). Verschiebt nun die Nachfragekurve nach rechts (z. B. durch gestiegene Beliebtheit des Produkts) und bestimmt das neue Gleichgewicht. Erklärt kurz: Warum steigt der Preis im neuen Gleichgewicht?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 8.1–8.7 entwickelt das Modell von Angebot und Nachfrage für Märkte mit vielen Käufern und Verkäufern. Erklärt anhand des Textes: (a) Was unterscheidet einen „Preisnehmer” (CORE 8.3) von einem „Preissetzer”? Welche konkreten Bedingungen nennt CORE 8.3, damit ein Markt als „wettbewerblich” (competitive) gilt? (b) Warum bewegt sich der Markt bei einem Überschussangebot oder einer Überschussnachfrage automatisch in Richtung Gleichgewicht? Beschreibt den Anpassungsprozess anhand des Beispiels in CORE 8.2. (c) CORE 8.6–8.7 beschreibt den Markteintritt neuer Firmen. Warum treten Firmen in einen Markt ein, und was passiert dadurch mit dem Marktpreis im langfristigen Gleichgewicht?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Was passiert auf dem Energiemarkt, wenn KI-Rechenzentren massiv mehr Strom nachfragen? Zeichnet die Verschiebung gedanklich.\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 8.1–8.7 gelesen.\nAngebot-Nachfrage-Diagramm mit Verschiebung auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Exogene Schocks, Steuern und Preiskontrollen\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt die Auswirkungen von Steuern und Preiskontrollen (Price Ceiling/Floor) grafisch einzeichnen und Wohlfahrtsverluste identifizieren.\nInhaltlich: Ihr versteht die Signalfunktion freier Preise und warum staatliche Preiseingriffe zu Fehlallokation führen können.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 8, Abschnitte 8.8 bis 8.14 – Lest vollständig. Achtet besonders auf: exogene Schocks und Anpassung (8.8–8.10), die Wirkung von Steuern und Steuerinzidenz (8.11–8.12) sowie Preiskontrollen (8.13–8.14).\nHazlitt: „Economics in One Lesson”, Kapitel 15 („How the Price System Works”) – Lest das gesamte Kapitel (ca. 8 Seiten). Kernidee: Preise koordinieren Millionen von Einzelentscheidungen ohne zentrale Planung.\n\n\n\nWhiteboard-Aufgabe\nZeichnet in ein Angebot-Nachfrage-Diagramm eine Preisobergrenze (Price Ceiling) unterhalb des Gleichgewichtspreises. Markiert den entstehenden Nachfrageüberschuss (Mangel). Daneben: Zeichnet die Auswirkung einer Mengensteuer auf den Gleichgewichtspreis – wer trägt die Last (Käufer oder Verkäufer)?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 8.11–8.14 und Hazlitt Kap. 15 behandeln staatliche Eingriffe in die Preisbildung. Erklärt anhand der Texte: (a) Was passiert laut CORE 8.13, wenn der Staat eine Preisobergrenze (z. B. Mietendeckel) unterhalb des Gleichgewichtspreises festsetzt? Warum entsteht ein Nachfrageüberschuss? (b) Wie bestimmt die Elastizität von Angebot und Nachfrage, wer die Last einer Steuer trägt (Steuerinzidenz, CORE 8.12)? (c) Warum argumentiert Hazlitt, dass die Signalfunktion freier Preise für eine effiziente Ressourcenallokation unverzichtbar ist?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn Regierungen Industriestrompreise deckeln, um die heimische KI-Branche zu fördern – welche unbeabsichtigten Folgen hätte das laut eurem Modell?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 8.8–8.14 und Hazlitt Kap. 15 gelesen.\nPreisdeckel- und Steuer-Diagramme auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Marktversagen: Externe Effekte und die Pigou-Steuer\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Marktversagen durch die Divergenz von privaten und sozialen Grenzkosten grafisch darstellen.\nInhaltlich: Ihr versteht negative externe Effekte und das Instrument der Pigou-Steuer als Korrekturmechanismus.\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 10, Abschnitte 10.1 bis 10.5 – Lest vollständig. Achtet auf: die Definition externer Effekte (10.1–10.2), die Divergenz zwischen privaten und sozialen Kosten (10.3), Lösungsansätze wie Steuern und Verhandlungen (10.4–10.5).\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Diagramm mit zwei Grenzkostenkurven: der privaten Grenzkostenkurve (Marginal Private Cost, MPC) und der sozialen Grenzkostenkurve (Marginal Social Cost, MSC = MPC + externer Schaden). Markiert die Marktmenge (wo Nachfrage = MPC) und die effiziente Menge (wo Nachfrage = MSC). Schraffiert den Wohlfahrtsverlust. Zeichnet daneben eine Pigou-Steuer ein, die den Keil zwischen MPC und MSC schließt.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 10.1–10.5 erklärt, warum Märkte bei externen Effekten versagen. Erklärt anhand des Textes: (a) CORE nennt in Abschnitt 10.2–10.3 konkrete Beispiele für negative externe Effekte. Wählt eines aus und erklärt daran: Warum berücksichtigt das Unternehmen die externen Kosten nicht in seiner Produktionsentscheidung – was fehlt als Anreiz? (b) Erklärt anhand der Abbildung zu MPC und MSC in CORE 10.3: Warum ist die Marktmenge (wo Nachfrage = MPC) größer als die effiziente Menge (wo Nachfrage = MSC)? (c) Wie korrigiert eine Pigou-Steuer das Marktversagen – was muss sie leisten, damit die Firma die „richtige” Menge produziert?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: KI-Serverfarmen verbrauchen enorme Mengen Strom und Wasser. Wer zahlt aktuell die Rechnung für diese externen Effekte – und wie könnte eine Pigou-Steuer helfen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 10.1–10.5 gelesen.\nMPC/MSC-Diagramm mit Pigou-Steuer auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Öffentliche Güter und die Tragedy of the Commons\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Güter anhand der Kriterien Rivalität und Ausschließbarkeit klassifizieren.\nInhaltlich: Ihr versteht, warum öffentliche Güter vom Markt unterversorgt werden und warum Gemeingüter übernutzt werden können (Tragedy of the Commons).\n\n\n\nLeseauftrag\n\nCORE Micro Kap. 10, Abschnitt 10.6 – Lest vollständig. Achtet auf: die Vier-Felder-Matrix (Rivalität vs. Ausschließbarkeit), das Trittbrettfahrer-Problem bei öffentlichen Gütern, die Tragedy of the Commons bei Gemeingütern (Common Pool Resources).\n\n\n\nWhiteboard-Aufgabe\nZeichnet die Vier-Felder-Matrix (Zeilen: rivalisierend / nicht-rivalisierend; Spalten: ausschließbar / nicht-ausschließbar). Tragt in jedes Feld die Güterart ein (privates Gut, Klubgut, Gemeingut, öffentliches Gut) und je ein Beispiel. Markiert: Wo liegt das Problem der Unterversorgung, wo das der Übernutzung?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE 10.6 behandelt öffentliche Güter und Gemeingüter als Fälle von Marktversagen. Erklärt anhand des Textes: (a) Was bedeutet „Nicht-Rivalität” und „Nicht-Ausschließbarkeit”, und warum führt die Kombination dieser Eigenschaften dazu, dass der Markt öffentliche Güter nicht ausreichend bereitstellt (Trittbrettfahrer-Problem)? (b) Was ist die „Tragedy of the Commons” – warum wird ein Gemeingut übernutzt, obwohl es im Interesse aller wäre, es zu schonen? Erklärt die Logik anhand eines Beispiels aus dem Text.\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Ist das globale Klima ein öffentliches Gut oder ein Gemeingut? Und: Könnte Open-Source-KI als öffentliches Gut betrachtet werden – wer stellt es bereit, und warum?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Kap. 10.6 gelesen.\nVier-Felder-Matrix auf dem Whiteboard erstellt und fotografiert.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
+  },
+  {
+    "objectID": "block-06/block06-lecture-grundlagen-makro.html#section",
+    "href": "block-06/block06-lecture-grundlagen-makro.html#section",
+    "title": "Economics — Blended Learning",
+    "section": "",
+    "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 6 · Makroökonomische Grundlagen\n\n\nProf. Dr. Jörg Schoder\n name@isba-freiburg.de ·  ISBA-University"
+  },
+  {
+    "objectID": "block-06/block06-lecture-grundlagen-makro.html#lernziele",
+    "href": "block-06/block06-lecture-grundlagen-makro.html#lernziele",
+    "title": "Economics — Blended Learning",
     "section": "Lernziele",
-    "text": "Lernziele\nHier die Lernziele des Blocks auflisten."
+    "text": "Lernziele\n\n Überblick\n\nFolien folgen — siehe Block-Beschreibung in prep.qmd"
   },
   {
-    "objectID": "block-05-arbeit/lecture.html#platzhalter-folie",
-    "href": "block-05-arbeit/lecture.html#platzhalter-folie",
-    "title": "Block 5 — Lecture",
-    "section": "Platzhalter-Folie",
-    "text": "Platzhalter-Folie\nInhalte folgen."
+    "objectID": "block-06/block06-lecture-grundlagen-makro.html#vielen-dank",
+    "href": "block-06/block06-lecture-grundlagen-makro.html#vielen-dank",
+    "title": "Economics — Blended Learning",
+    "section": "Vielen Dank!",
+    "text": "Vielen Dank!\nNachbereitung in rev.qmd · Fragen über  ISBA-University"
   },
   {
-    "objectID": "block-05-arbeit/rev.html",
-    "href": "block-05-arbeit/rev.html",
-    "title": "Block 5 — Nachbereitung",
+    "objectID": "block-06/rev.html",
+    "href": "block-06/rev.html",
+    "title": "Block 6 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-05-arbeit/rev.html#übungsaufgaben",
-    "href": "block-05-arbeit/rev.html#übungsaufgaben",
-    "title": "Block 5 — Nachbereitung",
+    "objectID": "block-06/rev.html#übungsaufgaben",
+    "href": "block-06/rev.html#übungsaufgaben",
+    "title": "Block 6 — Nachbereitung",
     "section": "",
-    "text": "Aufgabenstellung hier.\n\n\n\nAufgabenstellung hier."
+    "text": "Aufgabenstellungen für die Nachbereitung folgen."
   },
   {
-    "objectID": "block-05-arbeit/rev.html#klausurvorbereitung",
-    "href": "block-05-arbeit/rev.html#klausurvorbereitung",
-    "title": "Block 5 — Nachbereitung",
+    "objectID": "block-06/rev.html#klausurvorbereitung",
+    "href": "block-06/rev.html#klausurvorbereitung",
+    "title": "Block 6 — Nachbereitung",
     "section": "Klausurvorbereitung",
-    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur."
+    "text": "Klausurvorbereitung\nOptional: Musterfragen für die Klausur folgen."
   },
   {
-    "objectID": "block-05-arbeit/rev.html#vertiefende-literatur-optional",
-    "href": "block-05-arbeit/rev.html#vertiefende-literatur-optional",
-    "title": "Block 5 — Nachbereitung",
+    "objectID": "block-06/rev.html#vertiefende-literatur-optional",
+    "href": "block-06/rev.html#vertiefende-literatur-optional",
+    "title": "Block 6 — Nachbereitung",
     "section": "Vertiefende Literatur (optional)",
-    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen."
+    "text": "Vertiefende Literatur (optional)\nOptionale Weiterlesen-Empfehlungen folgen."
   },
   {
-    "objectID": "block-06-marktversagen/prep.html",
-    "href": "block-06-marktversagen/prep.html",
-    "title": "Block 6 — Vorbereitung",
+    "objectID": "block-07/prep.html",
+    "href": "block-07/prep.html",
+    "title": "Block 7 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 7 schließt den Bogen zur aktuellen wirtschaftspolitischen Debatte. Das Multiplikatormodell zeigt, warum kleine Schocks große Wellen auslösen — und warum Konsumglättung an Borrowing Constraints scheitert. Fiskalpolitik wird als Werkzeug, aber auch als ideologisches Schlachtfeld verstanden (Sparparadoxon, Kaufkraft-Trugschluss). Investitionsvolatilität und Baumols Kostenkrankheit erklären Strukturmuster moderner Volkswirtschaften. Und schließlich: der Staat als ökonomischer Akteur — und seine Schattenseite, das Rent-Seeking. Hier laufen alle Fäden des Kurses zusammen."
   },
   {
-    "objectID": "block-06-marktversagen/prep.html#reading-assignment",
-    "href": "block-06-marktversagen/prep.html#reading-assignment",
-    "title": "Block 6 — Vorbereitung",
+    "objectID": "block-07/prep.html#worum-es-geht",
+    "href": "block-07/prep.html#worum-es-geht",
+    "title": "Block 7 — Vorbereitung",
     "section": "",
-    "text": "Hier Lektüretexte auflisten, die vor der Sitzung zu lesen sind."
+    "text": "Block 7 schließt den Bogen zur aktuellen wirtschaftspolitischen Debatte. Das Multiplikatormodell zeigt, warum kleine Schocks große Wellen auslösen — und warum Konsumglättung an Borrowing Constraints scheitert. Fiskalpolitik wird als Werkzeug, aber auch als ideologisches Schlachtfeld verstanden (Sparparadoxon, Kaufkraft-Trugschluss). Investitionsvolatilität und Baumols Kostenkrankheit erklären Strukturmuster moderner Volkswirtschaften. Und schließlich: der Staat als ökonomischer Akteur — und seine Schattenseite, das Rent-Seeking. Hier laufen alle Fäden des Kurses zusammen."
   },
   {
-    "objectID": "block-06-marktversagen/prep.html#vorbereitungsfragen",
-    "href": "block-06-marktversagen/prep.html#vorbereitungsfragen",
-    "title": "Block 6 — Vorbereitung",
-    "section": "Vorbereitungsfragen",
-    "text": "Vorbereitungsfragen\nHier 2–3 Fragen formulieren, die die Studierenden schriftlich vorbereiten. Sie werden zu Beginn der Sitzung aufgegriffen.\n\n…\n…\n…"
+    "objectID": "block-07/prep.html#so-arbeiten-wir",
+    "href": "block-07/prep.html#so-arbeiten-wir",
+    "title": "Block 7 — Vorbereitung",
+    "section": "So arbeiten wir",
+    "text": "So arbeiten wir\nDer Kurs nutzt die Jigsaw-Methode: Jede Sitzung wird durch vier Vorbereitungsaufträge eingeleitet, die sich auf vier komplementäre Teilthemen beziehen. Sie werden von vier zufällig gebildeten Gruppen parallel bearbeitet — jede Gruppe konzentriert sich auf einen Auftrag und bringt ihre Erkenntnisse in die Präsenzsitzung ein, wo wir die Stränge zusammenführen.\nKonkret bedeutet das:\n\nDie Gruppeneinteilung erfolgt für jeden Block neu über MS Teams Aufgaben (zufällig).\nJede Gruppe nutzt ihren eigenen MS Teams Kanal zur Kollaboration und zur Veröffentlichung der Ergebnisse (Whiteboard-Foto, OneNote-Antwort, Verständnisprobleme, Erledigt-Post).\nIn der Präsenzsitzung präsentiert jede Gruppe ihren Auftrag den anderen.\nAnschließend integrieren wir die Stränge zu einem Gesamtbild — siehe Lernziele für die Präsenz unten.\n\n\n\n\n\n\n\nTippHinweis zur Klausurvorbereitung\n\n\n\nAuch wenn jede Gruppe nur einen Auftrag bearbeitet — alle vier Aufträge sind hier sichtbar. Klappen Sie die Akkordeon-Boxen unten gerne auf, um die Vorbereitungsaufträge der anderen Gruppen einzusehen. Für die Klausurvorbereitung ist die Auseinandersetzung mit allen vier Strängen wichtig."
   },
   {
-    "objectID": "block-06-marktversagen/prep.html#optionale-ressourcen",
-    "href": "block-06-marktversagen/prep.html#optionale-ressourcen",
-    "title": "Block 6 — Vorbereitung",
-    "section": "Optionale Ressourcen",
-    "text": "Optionale Ressourcen\nVideos, Podcasts, weiterführende Artikel …"
+    "objectID": "block-07/prep.html#lernziele-für-die-präsenz",
+    "href": "block-07/prep.html#lernziele-für-die-präsenz",
+    "title": "Block 7 — Vorbereitung",
+    "section": "Lernziele für die Präsenz",
+    "text": "Lernziele für die Präsenz\nDurch die Zusammenführung der vier Gruppenerkenntnisse in der Sitzung erarbeiten wir:\n\nDen Multiplikatoreffekt herleiten und auf KI-induzierte Schocks anwenden.\nFiskalpolitische Trugschlüsse erkennen und entkräften.\nInvestitionsvolatilität und Baumols Kostenkrankheit als Erklärungsmuster nutzen.\nRent-Seeking als Konsequenz staatlicher Eingriffe verstehen."
+  },
+  {
+    "objectID": "block-07/prep.html#vorbereitungsaufträge",
+    "href": "block-07/prep.html#vorbereitungsaufträge",
+    "title": "Block 7 — Vorbereitung",
+    "section": "Vorbereitungsaufträge",
+    "text": "Vorbereitungsaufträge\nKlicken Sie auf den jeweiligen Auftrag, um die Details auszuklappen.\n\n\n\n\n\n\nHinweisGruppe 1 — Das Multiplikatormodell und Konsumglättung\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt das Einkommens-Ausgaben-Modell (45-Grad-Diagramm) zeichnen und den Multiplikatoreffekt berechnen.\nInhaltlich: Ihr versteht, warum ein exogener Nachfrageschock zu überproportionalen BIP-Änderungen führt und warum Haushalte ihren Konsum zu glätten versuchen.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 3, Abschnitte 3.6 bis 3.10 – Lest vollständig. Achtet besonders auf: die Herleitung des Multiplikators (3.6–3.7), die Rolle von Staat und Nettoexporten (3.8), Konsumglättung (3.9) und Borrowing Constraints (3.10).\n\n\n\nWhiteboard-Aufgabe\nZeichnet das 45-Grad-Diagramm (y-Achse: Aggregierte Ausgaben; x-Achse: Einkommen/Output). Zeichnet die aggregierte Nachfragekurve und die 45-Grad-Linie ein. Markiert das Gleichgewicht. Verschiebt die Nachfragekurve nach unten (exogener Rückgang der Investitionen) und zeigt visuell, warum der BIP-Rückgang größer ist als der ursprüngliche Schock (Multiplikator).\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 3.6–3.10 entwickelt das Multiplikatormodell. Erklärt anhand des Textes: (a) Was ist der Multiplikator, wie hängt er von der marginalen Konsumquote ab, und warum ist der BIP-Effekt eines Nachfrageschocks größer als der ursprüngliche Schock? (b) Warum versuchen Haushalte laut CORE 3.9, ihren Konsum über die Zeit zu glätten, und warum gelingt das nicht allen – was sind „Borrowing Constraints” (3.10)?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn KI-Automatisierung in einer Branche zu Massenentlassungen führt – wie breitet sich der Schock über den Multiplikator auf die Gesamtwirtschaft aus? Was passiert mit dem Konsum der Entlassenen?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro Kap. 3.6–3.10 gelesen.\n45-Grad-Diagramm mit Multiplikator auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 2 — Fiskalpolitik, Sparparadoxon und der Kaufkraft-Trugschluss\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt die Wirkung von Fiskalpolitik im Multiplikatormodell analysieren und das Sparparadoxon erklären.\nInhaltlich: Ihr versteht, warum individuell rationales Sparen gesamtwirtschaftlich schädlich sein kann und könnt den populären „Kaufkraft-Trugschluss” widerlegen.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 5, Abschnitte 5.6 bis 5.8 – Lest vollständig. Achtet auf: wie Fiskalpolitik Konjunkturschwankungen dämpft (5.6), die Größe des Multiplikators (5.7) und das Sparparadoxon (5.8).\nHazlitt: „Economics in One Lesson”, Kapitel 20 („Enough to Buy Back the Product”) – Lest das gesamte Kapitel (ca. 8 Seiten). Hazlitts Kernargument: Warum ist die Behauptung falsch, dass Arbeiter genug verdienen müssen, um die eigene Produktion zu kaufen?\n\n\n\nWhiteboard-Aufgabe\nErklärt das Sparparadoxon in drei Schritten als Kausalkette: (1) Alle Haushalte sparen mehr → (2) Aggregierte Nachfrage sinkt → (3) BIP sinkt → Einkommen sinken → Gesamtersparnis sinkt trotz höherer individueller Sparquote. Notiert daneben Hazlitts Widerlegung des Kaufkraft-Arguments in Stichpunkten.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 5.6–5.8 und Hazlitt Kap. 20 behandeln scheinbare Paradoxa der Makroökonomie. Erklärt anhand der Texte: (a) Was ist das Sparparadoxon (CORE 5.8), und warum führt der Versuch aller Haushalte, mehr zu sparen, möglicherweise dazu, dass die gesamtwirtschaftliche Ersparnis sinkt? (b) Hazlitt widerlegt die Behauptung, dass Arbeiter „genug verdienen müssen, um die Produkte zurückzukaufen”. Was ist sein Kernargument – warum ist diese Behauptung ein Trugschluss?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Ist das Argument „Wenn KI alles produziert, hat niemand mehr Kaufkraft” ein Beispiel für den von Hazlitt widerlegten Trugschluss – oder hat es diesmal einen wahren Kern?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro 5.6–5.8 und Hazlitt Kap. 20 gelesen.\nSparparadoxon als Kausalkette auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 3 — Investitionsvolatilität und Baumols Kostenkrankheit\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt erklären, warum Investitionen die volatilste Komponente des BIP sind, und ein sektorales Wachstumsmodell skizzieren.\nInhaltlich: Ihr versteht, warum technologischer Fortschritt in einem Sektor das Gesamtwachstum paradoxerweise bremsen kann (Baumol’s Cost Disease).\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 3, Abschnitte 3.11 bis 3.12 – Lest vollständig. Achtet auf: Warum sind Investitionen volatiler als der Konsum (3.11)? Wie wirken Investitionsschocks im Multiplikatormodell (3.12)?\nAghion et al.: „Artificial Intelligence and Economic Growth” (NBER) – Lest gezielt Abschnitt 2.2 zu „Automation and Baumol’s Cost Disease” (ca. 4 Seiten). Kernidee: Was passiert, wenn KI einen Sektor extrem produktiv macht, aber ein anderer Sektor (z. B. Pflege) arbeitsintensiv bleibt?\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein einfaches Zwei-Sektoren-Modell: Sektor A (z. B. Softwareentwicklung) wird durch KI extrem produktiv → Preise sinken, Beschäftigungsanteil schrumpft. Sektor B (z. B. Pflege/Erziehung) bleibt arbeitsintensiv → Preise steigen relativ, Beschäftigungsanteil wächst. Zeichnet mit Pfeilen die Verschiebung der Arbeitskräfte.\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 3.11–3.12 und Aghion et al. behandeln Investitionsvolatilität und strukturelle Wachstumsprobleme. Erklärt anhand der Texte: (a) Warum sind Investitionen laut CORE 3.11 die volatilste Komponente des BIP – was macht Investitionsentscheidungen so unsicher? (b) Was versteht Aghion unter „Baumol’s Cost Disease”, und warum könnte KI-getriebener Fortschritt in einem Sektor das Gesamtwachstum langfristig bremsen, obwohl dieser eine Sektor massiv produktiver wird?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn KI Büroarbeit automatisiert, aber Pflege und Erziehung nicht – wird die Wirtschaft dann insgesamt wachsen oder stagnieren?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro 3.11–3.12 und Aghion et al. (Abschnitt 2.2) gelesen.\nZwei-Sektoren-Modell auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal.\n\n\n\n\n\n\n\n\n\n\n\nHinweisGruppe 4 — Der Staat als ökonomischer Akteur und Rent-Seeking\n\n\n\n\n\n\nLernziele\n\nMethodisch: Ihr könnt Rent-Seeking als systematische Ressourcenumverteilung ohne Wertschöpfung modellieren.\nInhaltlich: Ihr versteht die Rolle des Staates als wirtschaftlicher Akteur und die Gefahr, dass politische Macht zur Absicherung von Monopolgewinnen missbraucht wird.\n\n\n\nLeseauftrag\n\nCORE Macro Kap. 10, Abschnitte 10.2, 10.7 und 10.8 – Lest diese drei Abschnitte. Achtet auf: die verschiedenen Rollen des Staates in der Wirtschaft (10.2), das Modell des Rent-Seeking durch politische Eliten (10.7) und wie verschiedene politische Systeme Rent-Seeking begünstigen oder einschränken (10.8). Überfliegt die übrigen Abschnitte des Kapitels, um den Kontext zu verstehen.\n\n\n\nWhiteboard-Aufgabe\nZeichnet ein Akteursmodell des Rent-Seeking: Drei Akteure (Monopolistisches Unternehmen, Politiker/Regulierer, Gesellschaft). Zeichnet Pfeile für die Geld- und Einflussströme: Unternehmen → Lobbying → Politiker → Regulierung zugunsten des Monopolisten → Monopolrente fließt vom Konsumenten zum Unternehmen. Markiert: Wo entsteht kein neuer produktiver Wert?\n\n\nLeitfrage (ca. 250 Wörter in OneNote)\nCORE Macro 10.2 und 10.7–10.8 analysieren den Staat als ökonomischen Akteur mit eigenen Interessen. Erklärt anhand des Textes: (a) Welche verschiedenen Rollen des Staates unterscheidet CORE 10.2, und warum kann der Staat sowohl Marktversagen korrigieren als auch selbst zum Problem werden? (b) Was ist „Rent-Seeking” laut CORE 10.7, und warum ist es gesellschaftlich schädlich – was genau geht bei Rent-Seeking „verloren”? (c) Welche institutionellen Bedingungen begünstigen oder begrenzen politisches Rent-Seeking laut CORE 10.8?\n\n\nKI-Teaser (für die Präsenz)\nÜberlegt: Wenn große KI-Unternehmen strenge staatliche Regulierung fordern (z. B. teure Lizenzpflichten für KI-Training) – könnte das Rent-Seeking sein? Wem nützt die Regulierung, und wem schadet sie?\n\n\nVerständnisprobleme\nNotiert euch Begriffe oder Argumentationsschritte, die ihr beim Lesen nicht nachvollziehen konntet, zur Klärung in der Präsenzveranstaltung.\n\n\nAbgabe-Checkliste\n\nCORE Macro 10.2, 10.7 und 10.8 gelesen.\nRent-Seeking-Akteursmodell auf dem Whiteboard.\nAntwort auf die Leitfrage in OneNote dokumentiert (ca. 250 Wörter).\nVerständnisprobleme notiert.\nKurzer Erledigt-Post im Teams-Kanal."
   }
 ]

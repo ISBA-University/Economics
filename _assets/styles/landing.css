@@ -343,3 +343,81 @@ a:hover { color: var(--isba-red); }
   .block-number { font-size: 2.2rem; }
   .material-grid { grid-template-columns: 1fr; }
 }
+
+/* ============================================================================
+   WIP-Tile-Erweiterung für landing.css
+
+   Diese Regeln ergänzen die bestehende landing.css um den ausgegrauten
+   Zustand für noch nicht fertige Material-Tiles. Verwendung in der
+   index.qmd:
+
+     [**Präsenz**<br>In Vorbereitung]{.material-tile .material-tile-wip}
+
+   FÜGE DIE FOLGENDEN REGELN AM ENDE DEINER landing.css EIN:
+   ============================================================================ */
+
+/* WIP-Tile: deutlich abgesetzte, nicht klickbare Variante einer material-tile.
+   Der Tile zeigt grafisch, dass dieser Inhalt noch nicht verfügbar ist. */
+
+/* ---------- Aktive Material-Tiles: deutlich blauer Hintergrund ---------- */
+
+.material-tile {
+  background: #d8dceb !important;
+  /* Deutlich erkennbares ISBA-Blau, einladend */
+  border: 1px solid #b8c0d8 !important;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.material-tile:hover {
+  background: #c4cae0 !important;
+  /* Im Hover noch kräftiger, klar als klickbar erkennbar */
+  transform: translateY(-1px);
+}
+
+/* ---------- WIP-Tiles: nahezu unsichtbar, klar zurückweichend ---------- */
+
+.material-tile-wip {
+  background: #fafafa !important;
+  /* Fast Weiß, nur ein Hauch wärmer als der Seitenhintergrund */
+  color: #a0a0a0 !important;
+  /* Schrift sehr blass — kaum lesbar als Aufmerksamkeitspunkt */
+  cursor: not-allowed !important;
+  border: 1px solid #ececec !important;
+  /* Border so blass, dass die Tile fast unsichtbar wirkt */
+  pointer-events: none;
+}
+
+.material-tile-wip:hover {
+  background: #fafafa !important;
+  color: #a0a0a0 !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+a.material-tile-wip,
+a.material-tile-wip:hover,
+a.material-tile-wip:focus,
+a.material-tile-wip:visited {
+  text-decoration: none !important;
+  color: #a0a0a0 !important;
+}
+
+/* ---------- CC-Icon Größenbegrenzung (alle Seiten) ---------- */
+
+.cc-icon {
+  width: 16px !important;
+  height: 16px !important;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 0.4em;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.cc-line svg,
+.site-footer svg {
+  max-width: 16px;
+  max-height: 16px;
+  width: 16px;
+  height: 16px;
+}
