@@ -1,15 +1,44 @@
 /* =============================================================================
-   landing.css — Finale Version
-   Kursseite Economics — ISBA Freiburg
+   landing.css — Kursseite Economics — ISBA Freiburg
+
+   Struktur:
+     1. CSS-Variablen
+     2. Reset & Basis
+     3. Navbar (Anpassungen)
+     4. Hero-Bereich
+     5. Stats-Leiste
+     6. Container & Section-Titel
+     7. Block-Karten
+     8. Material-Tiles (Default + Block-Card-Spezialisierung + WIP-Variante)
+     9. CC-Line (Lizenz-Icon mit Name)
+    10. Footer
+    11. Responsive
    ============================================================================= */
 
-/* ---------- CSS-Variablen --------------------------------------------------- */
+
+/* =============================================================================
+   1. CSS-VARIABLEN
+   ============================================================================= */
+
 :root {
+  /* Marken-Farben */
   --isba-blue:        #232461;
   --isba-red:         #d84116;
   --isba-grey:        #696969;
   --isba-grey-light:  #f5f5f7;
   --isba-white:       #ffffff;
+
+  /* Material-Tile-Farben (aus Marken-Blau abgeleitet) */
+  --tile-bg:          #d8dceb;
+  --tile-bg-hover:    #c4cae0;
+  --tile-border:      #b8c0d8;
+
+  /* WIP-Tile-Farben (zurückweichend) */
+  --tile-wip-bg:      #fafafa;
+  --tile-wip-border:  #ececec;
+  --tile-wip-text:    #a0a0a0;
+
+  /* Sonstige */
   --body-color:       #1a1a1a;
 
   --radius-sm: 6px;
@@ -22,13 +51,12 @@
 
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
-/* ---------- Navbar: dezente Trennung zum Hero -------------------------- */
-.navbar {
-  border-bottom: 1px solid rgba(35, 36, 97, 0.08);
-  box-shadow: 0 1px 3px rgba(35, 36, 97, 0.04);
-}
 
-/* ---------- Reset & Basis --------------------------------------------------- */
+
+/* =============================================================================
+   2. RESET & BASIS
+   ============================================================================= */
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
@@ -50,7 +78,20 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- HERO ----------------------------------------------------------- */
+/* =============================================================================
+   3. NAVBAR — dezente Trennung zum Hero
+   ============================================================================= */
+
+.navbar {
+  border-bottom: 1px solid rgba(35, 36, 97, 0.08);
+  box-shadow: 0 1px 3px rgba(35, 36, 97, 0.04);
+}
+
+
+/* =============================================================================
+   4. HERO
+   ============================================================================= */
+
 .hero {
   background: var(--isba-blue);
   color: var(--isba-white);
@@ -108,7 +149,10 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- Stats-Leiste --------------------------------------------------- */
+/* =============================================================================
+   5. STATS-LEISTE
+   ============================================================================= */
+
 .stats {
   display: flex;
   justify-content: center;
@@ -138,15 +182,16 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- Haupt-Container ------------------------------------------------ */
+/* =============================================================================
+   6. HAUPT-CONTAINER & SECTION-TITEL
+   ============================================================================= */
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
   padding: 4rem 2rem 3rem;
 }
 
-
-/* ---------- Section-Titel -------------------------------------------------- */
 .section-title {
   font-size: 0.82rem;
   font-weight: 700;
@@ -161,9 +206,7 @@ a:hover { color: var(--isba-red); }
 
 .container > h2.section-title:first-of-type { margin-top: 0; }
 
-/* Inhalt des Containers (Paragraphen, Listen etc.) explizit
-   in normaler Case/Weight — überschreibt eventuell vererbte
-   text-transform / letter-spacing / font-weight aus section-title */
+/* Inhalt des Containers in normaler Case/Weight */
 .container p,
 .container li {
   text-transform: none;
@@ -172,7 +215,10 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- Block-Karte ---------------------------------------------------- */
+/* =============================================================================
+   7. BLOCK-KARTEN
+   ============================================================================= */
+
 .block-card {
   background: var(--isba-white);
   border: 1px solid var(--isba-grey-light);
@@ -228,59 +274,113 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- Material-Tiles ------------------------------------------------- */
+/* =============================================================================
+   8. MATERIAL-TILES
+
+   Default-Layout (auto-fit) für freie Verwendung in Sub-Seiten,
+   spezialisiertes 4-Spalten-Layout in Block-Karten der Landing-Page.
+
+   Die Spezifität (.block-card .material-grid) reicht aus, um den
+   Default zu überschreiben — kein !important nötig.
+   ============================================================================= */
+
+/* ---- Grid: Default (auto-fit, mind. 220px breit) ---- */
 .material-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 0.75rem;
+  margin-top: 1.25rem;
 }
 
+/* ---- Grid: Spezialisierung in Block-Karten (4 gleiche Spalten) ---- */
+.block-card .material-grid {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* ---- Quarto wickelt Tiles in <p>-Element; transparent machen ---- */
+.material-grid > p {
+  display: contents;
+}
+
+/* ---- Tile: Default-Aussehen (aktiv, klickbar) ---- */
 .material-tile {
-  display: block;
-  padding: 1.25rem;
-  background: var(--isba-grey-light);
-  border: 1px solid transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem 1.25rem;
+  min-height: 90px;
+  background: var(--tile-bg);
+  border: 1px solid var(--tile-border);
   border-radius: var(--radius-md);
   font-size: 0.95rem;
   line-height: 1.4;
-  transition: all 0.2s;
-  text-decoration: none !important;
+  color: var(--isba-blue);
+  text-decoration: none;
   text-transform: none;
   letter-spacing: normal;
-  color: var(--isba-blue) !important;
+  transition: background 0.15s ease, transform 0.15s ease;
 }
 
 .material-tile strong {
   display: block;
   color: var(--isba-red);
   margin-bottom: 0.3rem;
-  font-size: 0.95rem;
   font-weight: 700;
 }
 
 .material-tile:hover {
-  background: var(--isba-white);
-  border-color: var(--isba-red);
-  box-shadow: var(--shadow-md);
-  transform: translateY(-2px);
+  background: var(--tile-bg-hover);
+  transform: translateY(-1px);
+}
+
+/* ---- Tile-Subtitle (nach <br>) etwas kleiner ---- */
+.material-tile br + *,
+.material-tile-wip br + * {
+  font-size: 0.85em;
+  line-height: 1.3;
+}
+
+/* ---- Tile: WIP-Variante (nicht klickbar, zurückweichend) ---- */
+.material-tile-wip {
+  background: var(--tile-wip-bg);
+  border-color: var(--tile-wip-border);
+  color: var(--tile-wip-text);
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.material-tile-wip:hover {
+  background: var(--tile-wip-bg);
+  transform: none;
+  box-shadow: none;
+}
+
+a.material-tile-wip,
+a.material-tile-wip:hover,
+a.material-tile-wip:focus,
+a.material-tile-wip:visited {
+  text-decoration: none;
+  color: var(--tile-wip-text);
 }
 
 
-/* ---------- CC-Line: Icon + Name sauber aligned --------------------------- */
-/* Gemeinsame Klasse für alle drei Vorkommen (Lizenz-Bereich + 2x Footer)    */
+/* =============================================================================
+   9. CC-LINE — Icon + Name sauber aligned (für Lizenz-Bereich + Footer)
+   ============================================================================= */
+
 .cc-line {
   display: inline-flex;
-  align-items: baseline;
+  align-items: center;
   gap: 0.4em;
   line-height: 1;
 }
 
 .cc-icon {
-  width: 1em;             /* von 1.2em auf 1em reduziert */
-  height: 1em;
+  width: 16px;
+  height: 16px;
   fill: currentColor;
   flex-shrink: 0;
-  transform: translateY(0.15em);
+  vertical-align: middle;
 }
 
 .cc-name {
@@ -288,13 +388,26 @@ a:hover { color: var(--isba-red); }
   line-height: 1;
 }
 
-/* Im Lizenz-Bereich (heller Hintergrund): eigener Abstand nach oben */
-.container .cc-line {
-  margin-top: 0;
+/* Quarto wickelt Inline-Spans in <p>; das bricht das Flex-Layout */
+.cc-line > p {
+  margin: 0;
+  display: contents;
+}
+
+/* Sicherheits-Constraint: alle SVGs in cc-line/site-footer auf 16px begrenzen */
+.cc-line svg,
+.site-footer svg {
+  max-width: 16px;
+  max-height: 16px;
+  width: 16px;
+  height: 16px;
 }
 
 
-/* ---------- Footer --------------------------------------------------------- */
+/* =============================================================================
+   10. FOOTER
+   ============================================================================= */
+
 .site-footer {
   background: var(--isba-blue);
   color: rgba(255, 255, 255, 0.9);
@@ -309,17 +422,10 @@ a:hover { color: var(--isba-red); }
   margin-bottom: 0.8rem;
 }
 
-/* Die cc-Line im Footer: eine Zeile darunter, etwas kleiner, gedämpfter */
 .site-footer .footer-bottom {
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.85rem;
-  /* Flex-Eigenschaften kommen schon über .cc-line — hier nur Zentrieren */
   display: inline-flex;
-}
-
-/* Footer-unterer-Streifen zentriert darstellen (wir brauchen den äußeren
-   Container als Block, damit der inline-flex zentriert wird) */
-.site-footer .footer-bottom {
   margin: 0 auto;
 }
 
@@ -329,95 +435,33 @@ a:hover { color: var(--isba-red); }
 }
 
 
-/* ---------- Responsive ----------------------------------------------------- */
+/* =============================================================================
+   11. RESPONSIVE
+   ============================================================================= */
+
+/* Tablet: 2x2-Grid für Material-Tiles in Block-Karten */
+@media (max-width: 900px) {
+  .block-card .material-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile: einspaltig */
 @media (max-width: 640px) {
   .hero { padding: 3rem 1.25rem 2.5rem; }
   .container { padding: 2.5rem 1.25rem; }
   .stats { gap: 2rem; }
   .stat-item strong { font-size: 2rem; }
   .hero-divider { width: 120px; }
+
   .block-header {
     grid-template-columns: 60px 1fr;
     gap: 1.25rem;
   }
   .block-number { font-size: 2.2rem; }
-  .material-grid { grid-template-columns: 1fr; }
-}
 
-/* ============================================================================
-   WIP-Tile-Erweiterung für landing.css
-
-   Diese Regeln ergänzen die bestehende landing.css um den ausgegrauten
-   Zustand für noch nicht fertige Material-Tiles. Verwendung in der
-   index.qmd:
-
-     [**Präsenz**<br>In Vorbereitung]{.material-tile .material-tile-wip}
-
-   FÜGE DIE FOLGENDEN REGELN AM ENDE DEINER landing.css EIN:
-   ============================================================================ */
-
-/* WIP-Tile: deutlich abgesetzte, nicht klickbare Variante einer material-tile.
-   Der Tile zeigt grafisch, dass dieser Inhalt noch nicht verfügbar ist. */
-
-/* ---------- Aktive Material-Tiles: deutlich blauer Hintergrund ---------- */
-
-.material-tile {
-  background: #d8dceb !important;
-  /* Deutlich erkennbares ISBA-Blau, einladend */
-  border: 1px solid #b8c0d8 !important;
-  transition: background 0.15s ease, transform 0.15s ease;
-}
-
-.material-tile:hover {
-  background: #c4cae0 !important;
-  /* Im Hover noch kräftiger, klar als klickbar erkennbar */
-  transform: translateY(-1px);
-}
-
-/* ---------- WIP-Tiles: nahezu unsichtbar, klar zurückweichend ---------- */
-
-.material-tile-wip {
-  background: #fafafa !important;
-  /* Fast Weiß, nur ein Hauch wärmer als der Seitenhintergrund */
-  color: #a0a0a0 !important;
-  /* Schrift sehr blass — kaum lesbar als Aufmerksamkeitspunkt */
-  cursor: not-allowed !important;
-  border: 1px solid #ececec !important;
-  /* Border so blass, dass die Tile fast unsichtbar wirkt */
-  pointer-events: none;
-}
-
-.material-tile-wip:hover {
-  background: #fafafa !important;
-  color: #a0a0a0 !important;
-  transform: none !important;
-  box-shadow: none !important;
-}
-
-a.material-tile-wip,
-a.material-tile-wip:hover,
-a.material-tile-wip:focus,
-a.material-tile-wip:visited {
-  text-decoration: none !important;
-  color: #a0a0a0 !important;
-}
-
-/* ---------- CC-Icon Größenbegrenzung (alle Seiten) ---------- */
-
-.cc-icon {
-  width: 16px !important;
-  height: 16px !important;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 0.4em;
-  fill: currentColor;
-  flex-shrink: 0;
-}
-
-.cc-line svg,
-.site-footer svg {
-  max-width: 16px;
-  max-height: 16px;
-  width: 16px;
-  height: 16px;
+  .block-card .material-grid,
+  .material-grid {
+    grid-template-columns: 1fr;
+  }
 }
