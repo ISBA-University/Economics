@@ -292,9 +292,9 @@ a:hover { color: var(--isba-red); }
   margin-top: 1.25rem;
 }
 
-/* ---- Grid: Spezialisierung in Block-Karten (4 gleiche Spalten) ---- */
+/* ---- Grid: Spezialisierung in Block-Karten (3 gleiche Spalten) ---- */
 .block-card .material-grid {
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 /* ---- Quarto wickelt Tiles in <p>-Element; transparent machen ---- */
