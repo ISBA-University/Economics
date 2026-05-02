@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://isba-university.github.io/Economics/materialien/vertiefen.html</loc>
+    <loc>https://isba-university.github.io/Economics/ressources/multimedia.html</loc>
     <lastmod>2026-04-29T17:06:50.825Z</lastmod>
   </url>
   <url>
-    <loc>https://isba-university.github.io/Economics/materialien/erkunden.html</loc>
+    <loc>https://isba-university.github.io/Economics/ressources/explore.html</loc>
     <lastmod>2026-04-29T17:06:50.825Z</lastmod>
   </url>
   <url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/block-01/slidedecks/block01-core-grundlagen-oekonomie-wohlstand.html</loc>
-    <lastmod>2026-04-28T13:27:20.831Z</lastmod>
+    <lastmod>2026-04-28T13:27:20.000Z</lastmod>
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/block-07/prep.html</loc>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/index.html</loc>
-    <lastmod>2026-04-29T17:06:50.825Z</lastmod>
+    <lastmod>2026-05-02T07:55:33.293Z</lastmod>
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/block-01/mat.html</loc>
@@ -134,14 +134,14 @@
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/block-01/slidedecks/block01-lecture-grundlagen-oekonomie-wohlstand.html</loc>
-    <lastmod>2026-04-28T13:27:28.364Z</lastmod>
+    <lastmod>2026-04-28T13:27:28.000Z</lastmod>
   </url>
   <url>
     <loc>https://isba-university.github.io/Economics/block-02/slidedecks/block02-lecture-rational-choice-behavioral.html</loc>
     <lastmod>2026-04-28T14:32:13.009Z</lastmod>
   </url>
   <url>
-    <loc>https://isba-university.github.io/Economics/materialien/multimedia.html</loc>
+    <loc>https://isba-university.github.io/Economics/ressources/immerse.html</loc>
     <lastmod>2026-04-29T17:06:50.825Z</lastmod>
   </url>
 </urlset>
