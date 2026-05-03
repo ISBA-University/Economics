@@ -1,0 +1,49 @@
+<svg viewBox="0 0 800 600" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)" style="background-color: white; font-family: 'Open Sans', Arial, sans-serif;">
+  <line x1="80" y1="520" x2="750" y2="520" stroke="#2f3e5e" stroke-width="2" />
+  <line x1="80" y1="520" x2="80" y2="40" stroke="#2f3e5e" stroke-width="2" />
+  <text x="415" y="565" text-anchor="middle" font-size="18" fill="#2f3e5e">Hours of free time per day</text>
+  <text x="35" y="280" text-anchor="middle" font-size="18" fill="#2f3e5e" transform="rotate(-90, 35, 280)">Goods per day ($)</text>
+
+  <text x="213" y="540" text-anchor="middle" font-size="14" fill="#2f3e5e">16</text>
+  <text x="413" y="540" text-anchor="middle" font-size="14" fill="#2f3e5e">19</text>
+  <text x="546" y="540" text-anchor="middle" font-size="14" fill="#2f3e5e">21</text>
+  <text x="746" y="540" text-anchor="middle" font-size="14" fill="#2f3e5e">24</text>
+
+  <defs>
+    <marker id="isbaArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4b7f33" />
+    </marker>
+  </defs>
+
+  <g class="fragment" data-fragment-index="1">
+    <line x1="80" y1="440" x2="746" y2="520" stroke="#952424" stroke-width="2.5" />
+    <line x1="280" y1="40" x2="746" y2="520" stroke="#952424" stroke-width="2.5" />
+
+    <path d="M 120 280 Q 200 480 350 500" fill="none" stroke="#2f3e5e" stroke-width="2" opacity="0.8" />
+    <path d="M 330 80 Q 400 320 650 380" fill="none" stroke="#2f3e5e" stroke-width="2" />
+
+    <circle cx="213" cy="456" r="5" fill="black" />
+    <text x="213" y="485" text-anchor="middle" font-size="14" font-weight="bold">1900 (A)</text>
+    <circle cx="413" cy="173" r="5" fill="black" />
+    <text x="430" y="165" font-size="14" font-weight="bold">2020 (D)</text>
+  </g>
+
+  <g class="fragment" data-fragment-index="2">
+    <line x1="80" y1="280" x2="630" y2="346" stroke="#952424" stroke-width="2" stroke-dasharray="8,5" />
+    <circle cx="546" cy="336" r="5" fill="black" />
+    <text x="560" y="330" font-size="14" font-weight="bold">C</text>
+
+    <line x1="213" y1="420" x2="536" y2="420" stroke="#4b7f33" stroke-width="2" marker-end="url(#isbaArrow)" />
+    <text x="380" y="410" fill="#4b7f33" text-anchor="middle" font-size="14" font-weight="bold">Income effect</text>
+  </g>
+
+  <g class="fragment" data-fragment-index="3">
+    <line x1="546" y1="130" x2="423" y2="130" stroke="#4b7f33" stroke-width="2" marker-end="url(#isbaArrow)" />
+    <text x="485" y="120" fill="#4b7f33" text-anchor="middle" font-size="14" font-weight="bold">Substitution effect</text>
+  </g>
+
+  <g class="fragment" data-fragment-index="4">
+    <line x1="213" y1="500" x2="403" y2="500" stroke="#4b7f33" stroke-width="2" marker-end="url(#isbaArrow)" opacity="0.6" />
+    <text x="308" y="490" fill="#4b7f33" text-anchor="middle" font-size="14" font-weight="bold">Overall effect</text>
+  </g>
+</svg>

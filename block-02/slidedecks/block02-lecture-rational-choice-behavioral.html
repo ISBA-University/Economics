@@ -27,7 +27,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-07db928d9ab370140e2a7f1708a331e9.css">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -194,10 +214,10 @@
 <iframe src="https://www.npr.org/player/embed/nx-s1-5794326/nx-s1-mx-5794326-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 </div></div>
 </section>
-<section id="konsumpläne-und-indifferenzkurven" class="slide level2 has-indicator">
-<h2>Konsumpläne und Indifferenzkurven</h2>
+<section id="einkommen-und-budgetmenge" class="slide level2 has-indicator">
+<h2>Einkommen und Budgetmenge</h2>
 <div class="section-indicator">
-<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Präferenzen</p>
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Budgetmenge</p>
 </div>
 <div class="r-stack">
 <div class="current-visible">
@@ -255,7 +275,18 @@
 </div>
 </div>
 </div>
-<div class="fragment">
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="konsumpläne-und-indifferenzkurven" class="slide level2 has-indicator">
+<h2>Konsumpläne und Indifferenzkurven</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Präferenzen</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
 <div class="cell">
 <div class="cell-output-display">
 <div>
@@ -265,6 +296,515 @@
 </div>
 </div>
 </div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-9-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-10-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-11-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-12-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-13-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="optimierung" class="slide level2 has-indicator">
+<h2>Optimierung</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Optimierung</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-14-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-15-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-16-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-17-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-18-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-19-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="komparative-statik" class="slide level2 has-indicator">
+<h2>Komparative Statik</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Komparative Statik</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-20-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-21-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-22-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="einkommenseffekt-bei-unterschiedlichen-präferenzen" class="slide level2 has-indicator">
+<h2>Einkommenseffekt bei unterschiedlichen Präferenzen</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Komparative Statik</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-23-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-24-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-25-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="einkommens--und-substitutionseffekt-hicks-zerlegung" class="slide level2 has-indicator">
+<h2>Einkommens- und Substitutionseffekt (Hicks-Zerlegung)</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Einkommens- und Substitionseffekt</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-26-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-27-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-28-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-29-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-30-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-31-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-32-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung in Anlehnung an <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>.</p>
+</div>
+</section>
+<section id="exkurs-slutzky-zerlegung" class="slide level2 has-indicator">
+<h2>Exkurs: Slutzky-Zerlegung</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Einkommens- und Substitionseffekt</p>
+</div>
+<div class="r-stack">
+<div class="current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-33-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-34-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-35-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-36-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment current-visible">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-37-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-38-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Eigene Darstellung.</p>
+</div>
+</section>
+<section id="historische-entwicklung-der-jährlichen-arbeitszeit" class="slide level2 has-indicator">
+<h2>Historische Entwicklung der (jährlichen) Arbeitszeit</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Abgleich Theorie und Empirie</p>
+</div>
+<div class="panel-tabset">
+<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Jährliche Arbeitszeit im Zeitverlauf</a></li><li><a href="#tabset-1-2">Lebensarbeitszeit im Zeitverlauf</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1">
+<div style="height: 550px; width: 100%;">
+<iframe src="https://ourworldindata.org/grapher/annual-working-hours-per-worker?tab=line" loading="lazy" style="width: 100%; height: 100%; border: none;">
+</iframe>
+</div>
+</div>
+<div id="tabset-1-2">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-39-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quelle">
+<p>Quelle: <span class="citation" data-cites="owid_2024">Data (<a href="#/quellen" role="doc-biblioref" onclick="">2024</a>)</span> und <span class="citation" data-cites="fogel_2000">Fogel (<a href="#/quellen" role="doc-biblioref" onclick="">2000</a>)</span>.</p>
+</div>
+</section>
+<section id="kann-das-modell-die-daten-erklären" class="slide level2 has-indicator">
+<h2>Kann das Modell die Daten erklären?</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Abgleich Theorie und Empirie</p>
+</div>
+
+<img data-src="../../_assets/img/block-02/CORE_fig3_16_ee-se_history.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"><div class="quelle">
+<p>Quelle: <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>, Abb. 3.16.</p>
+</div>
+</section>
+<section id="j.-schor-zu-arbeitszeiten-produktivität-und-umwelt" class="slide level2 has-indicator">
+<h2>J. Schor zu Arbeitszeiten, Produktivität und Umwelt</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Abgleich Theorie und Empirie</p>
+</div>
+<div style="height: 550px; width: 100%;">
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/FrIhloNEwT8?si=93ZJPJBAKFU8SHO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+</div>
+</section>
+<section id="das-gender-puzzle" class="slide level2 has-indicator">
+<h2>Das Gender-Puzzle</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Transfer: Gender &amp; Kultur</p>
+</div>
+<div class="panel-tabset">
+<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Mögliche Erklärung</a></li><li><a href="#tabset-2-2">Eine (andere) Erklärung</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1">
+<ul>
+<li><p>Beobachtung: Frauen leisten weltweit weniger bezahlte und deutlich mehr unbezahlte Arbeit als Männer. Gleichzeitig existiert ein Gender Wage Gap (Lohnlücke).</p></li>
+<li><p>Die erste Vermutung: Arbeiten Frauen weniger, weil ihr Lohn geringer ist (Substitutionseffekt)?</p></li>
+<li><p>Die ökonomische Widerlegung: Historisch (z.B. von 1900 auf 2020) haben steigende Löhne zu weniger Arbeitszeit geführt (Einkommenseffekt dominierte). Ein reiner Lohnunterschied erklärt also nicht, warum Frauen weniger bezahlte Arbeit leisten.</p></li>
+</ul>
+</div>
+<div id="tabset-2-2">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure>
+<p><img data-src="slides_files/figure-revealjs/unnamed-chunk-41-1.png" width="1152"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="das-haushaltsmodell-ana-luis" class="slide level2 has-indicator">
+<h2>Das Haushaltsmodell (Ana &amp; Luis)</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Transfer: Gender &amp; Kultur</p>
+</div>
+
+<img data-src="../../_assets/img/block-02/CORE_fig3_22_analuis.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"><div class="quelle">
+<p>Quelle: <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>, Abb. 3.22.</p>
+</div>
+</section>
+<section id="ländervergleich-usa-vs.-niederlande" class="slide level2 has-indicator">
+<h2>Ländervergleich: USA vs.&nbsp;Niederlande</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Transfer: Gender &amp; Kultur</p>
+</div>
+
+<img data-src="../../_assets/img/block-02/CORE_fig3_25_US-NL.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"><div class="quelle">
+<p>Quelle: <span class="citation" data-cites="core_micro2_2023">(<a href="#/quellen" role="doc-biblioref" onclick="">The CORE Econ Team, 2023</a>)</span>, Abb. 3.16.</p>
+</div>
+</section>
+<section id="vielen-dank" class="slide level2 end-slide" data-background-color="#232461">
+<h2>Vielen Dank!</h2>
+<p>Fragen über <svg aria-hidden="true" role="img" viewbox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg> ISBA-University · <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg> jfschoder</p>
+</section>
+<section id="quellen" class="slide level2 smaller scrollable has-indicator">
+<h2>Quellen</h2>
+<div class="section-indicator">
+<p><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm406.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L320 210.7l-57.4-57.4c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L240 221.3l57.4 57.4c12.5 12.5 32.8 12.5 45.3 0l128-128z"></path></svg> Transfer: Gender &amp; Kultur</p>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-owid_2024" class="csl-entry" role="listitem">
+Data, O. W. in. (2024). <a href="https://ourworldindata.org"><span>OWID Homepage</span></a>. <em>Our World in Data</em>.
+</div>
+<div id="ref-fogel_2000" class="csl-entry" role="listitem">
+Fogel, R. W. (2000). <em>The Fourth Great Awakening and the Future of Egalitarianism</em>. Chicago: University of Chicago Press.
+</div>
+<div id="ref-core_micro2_2023" class="csl-entry" role="listitem">
+The CORE Econ Team. (2023). <em><a href="https://core-econ.org/the-economy/">The Economy 2.0: Microeconomics.</a></em>
 </div>
 </div>
 </section>
@@ -352,10 +892,6 @@
 </div>
 </div>
 </div>
-</section>
-<section id="vielen-dank" class="slide level2 end-slide" data-background-color="#232461">
-<h2>Vielen Dank!</h2>
-<p>Fragen über <svg aria-hidden="true" role="img" viewbox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg> ISBA-University · <svg aria-hidden="true" role="img" viewbox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg> jfschoder</p>
 
 
 </section>
