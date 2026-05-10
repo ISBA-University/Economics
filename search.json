@@ -35,25 +35,25 @@
     "text": "Sommersemester 2026\n\n\nModul Volkswirtschaftslehre\nÖkonomisches Denken im Zeitalter Künstlicher Intelligenz\n\nBlock 2 · Rationale Wahl und Verhaltensökonomik\n\n\nProf. Dr. Jörg Schoder\n ISBA-University ·  jfschoder"
   },
   {
+    "objectID": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#lernziele",
+    "href": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#lernziele",
+    "title": "Economics — Blended Learning",
+    "section": "Lernziele",
+    "text": "Lernziele\n\nInhaltliche Leitfragen\n\nWie kann der Produktivitätsgewinn infolge technologischer Fortschritte genutzt werden bzw. wie wurde er historisch genutzt?\nWarum ist die Prognose von J.M. Keynes nicht eingetreten?\n\nÖkonomische Methoden und Konzepte\n\nOpportunitätskostenund Marginale Rate der Transformation\nPräferenzen und Marginale Rate der Substitution\nOptimale Entscheidung unter Nebenbedingungen"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#makroökonomische-perspektive",
+    "href": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#makroökonomische-perspektive",
+    "title": "Economics — Blended Learning",
+    "section": "Makroökonomische Perspektive",
+    "text": "Makroökonomische Perspektive\n\nEinordnung Mikro- vs. Makroökonomik\nKleine Fortschritte, große Effekte: Die 69er-Regel\nVerwendungsmöglichkeiten von Produktivitätsfortschritten"
+  },
+  {
     "objectID": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#vielen-dank",
     "href": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#vielen-dank",
     "title": "Economics — Blended Learning",
     "section": "Vielen Dank!",
     "text": "Vielen Dank!\nFragen über  ISBA-University ·  jfschoder"
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#lernziele",
-    "href": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#lernziele",
-    "title": "Economics — Blended Learning",
-    "section": "Lernziele",
-    "text": "Lernziele\n\nInhaltlich"
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#zwischenfolie",
-    "href": "block-02/slidedecks/block02-core-rational-choice-behavioral.html#zwischenfolie",
-    "title": "Economics — Blended Learning",
-    "section": "Zwischenfolie",
-    "text": "Zwischenfolie\n\nTeil 1 — Der große Sprung\n\nDas Rätsel der Hockeystick-Kurve\nReales BIP pro Kopf über 1000 Jahre\nWarum ab 1800?\n\nTeil 2 — Ungleichheit\n\nZwischen Ländern\nInnerhalb von Ländern\nSens Kritik am BIP"
   },
   {
     "objectID": "block-01/slidedecks/block01-core-grundlagen-oekonomie-wohlstand.html#section",
@@ -585,7 +585,7 @@
     "href": "index.html#lizenz-kontakt",
     "title": "Economics — Blended Learning",
     "section": "Lizenz & Kontakt",
-    "text": "Lizenz & Kontakt\nEigene Materialien: CC BY-SA 4.0. Zitate und Grafiken aus CORE Econ’s The Economy 2.0 unterliegen der Lizenz des jeweiligen Originalwerks.\nKontakt: name@isba-freiburg.de · Issue auf GitHub\n\n\n\n\nProf. Dr. Jörg Schoder"
+    "text": "Lizenz & Kontakt\nEigene Materialien: CC BY-SA 4.0. Zitate und Grafiken aus CORE Econ’s The Economy 2.0 unterliegen der Lizenz des jeweiligen Originalwerks.\nKontakt: j.schoder@isba-freiburg.de · Issue auf GitHub\n\n\n\n\nProf. Dr. Jörg Schoder"
   },
   {
     "objectID": "block-01/mat.html",
@@ -872,35 +872,63 @@
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#john-maynard-keynes-und-die-früchte-des-wachstums",
     "title": "Economics — Blended Learning",
     "section": "John Maynard Keynes und die Früchte des Wachstums",
-    "text": "John Maynard Keynes und die Früchte des Wachstums\n\n\n\n\n\n\n\n\n\n\n\n\n\n“What can we reasonably expect the level of our economic life to be a hundred years hence? [..]\nThree-hour shifts or a fifteen-hour week may put off the problem for a great while. For three hours a day is quite enough to satisfy the old Adam in most of us! [..]\nThus for the first time since his creation man will be faced with his real, his permanent problem-how to use his freedom from pressing economic cares, how to occupy the leisure, which science and compound interest will have won for him, to live wisely and agreeably and well.”\nJ.M. Keynes (1930): Economic Possibilities for our Grandchildren"
+    "text": "John Maynard Keynes und die Früchte des Wachstums\n\n Motivation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“What can we reasonably expect the level of our economic life to be a hundred years hence? [..]\nThree-hour shifts or a fifteen-hour week may put off the problem for a great while. For three hours a day is quite enough to satisfy the old Adam in most of us! [..]\nThus for the first time since his creation man will be faced with his real, his permanent problem-how to use his freedom from pressing economic cares, how to occupy the leisure, which science and compound interest will have won for him, to live wisely and agreeably and well.”\nJ.M. Keynes (1930): Economic Possibilities for our Grandchildren"
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#jack-clark-und-die-potenziale-von-künstlicher-intelligenz",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#jack-clark-und-die-potenziale-von-künstlicher-intelligenz",
     "title": "Economics — Blended Learning",
     "section": "Jack Clark und die Potenziale von Künstlicher Intelligenz",
-    "text": "Jack Clark und die Potenziale von Künstlicher Intelligenz"
+    "text": "Jack Clark und die Potenziale von Künstlicher Intelligenz\n\n Motivation"
   },
   {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#einkommen-und-budgetmenge",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#einkommen-und-budgetmenge",
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#lernziele",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#lernziele",
     "title": "Economics — Blended Learning",
-    "section": "Einkommen und Budgetmenge",
-    "text": "Einkommen und Budgetmenge\n\n Budgetmenge\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+    "section": "Lernziele",
+    "text": "Lernziele\n\nInhaltliche Leitfragen\n\nWie kann der Produktivitätsgewinn infolge technologischer Fortschritte genutzt werden bzw. wie wurde er historisch genutzt?\nWarum ist die Prognose von J.M. Keynes nicht eingetreten?\n\nÖkonomische Methoden und Konzepte\n\nOpportunitätskostenund Marginale Rate der Transformation\nPräferenzen und Marginale Rate der Substitution\nOptimale Entscheidung unter Nebenbedingungen"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zielkonflikte-opportunitätskosten-und-marginale-rate-der-transformation",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zielkonflikte-opportunitätskosten-und-marginale-rate-der-transformation",
+    "title": "Economics — Blended Learning",
+    "section": "Zielkonflikte, Opportunitätskosten und Marginale Rate der Transformation",
+    "text": "Zielkonflikte, Opportunitätskosten und Marginale Rate der Transformation\n\n Modellierung ·  Opportunitätskosten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#technologie-produktionsfunktion-und-transformationskurve",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#technologie-produktionsfunktion-und-transformationskurve",
+    "title": "Economics — Blended Learning",
+    "section": "Technologie: Produktionsfunktion und Transformationskurve",
+    "text": "Technologie: Produktionsfunktion und Transformationskurve\n\n Modellierung ·  Opportunitätskosten\n\n\nLinearer FallNichtlinearer Fall"
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#konsumpläne-und-indifferenzkurven",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#konsumpläne-und-indifferenzkurven",
     "title": "Economics — Blended Learning",
     "section": "Konsumpläne und Indifferenzkurven",
-    "text": "Konsumpläne und Indifferenzkurven\n\n Präferenzen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+    "text": "Konsumpläne und Indifferenzkurven\n\n Modellierung ·  Präferenzen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
   },
   {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#optimierung",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#optimierung",
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#vielfalt-der-präferenzen-kurvenscharen-im-vergleich",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#vielfalt-der-präferenzen-kurvenscharen-im-vergleich",
     "title": "Economics — Blended Learning",
-    "section": "Optimierung",
-    "text": "Optimierung\n\n Optimierung\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+    "section": "Vielfalt der Präferenzen: Kurvenscharen im Vergleich",
+    "text": "Vielfalt der Präferenzen: Kurvenscharen im Vergleich\n\n Modellierung ·  Präferenzen\n\n\nImperfekte SubstitutePerfekte SubstitutePerfekte Komplemente\n\n\nAnnahme: Abnehmende Grenzrate der Substitution. Die Person schätzt Ausgewogenheit; Extreme werden schlechter bewertet als Mischungen.\n\n\n\n\n\n\n\n\n\n\n\nAnnahme: Die Güter sind in einem festen Verhältnis (hier 1:4) vollkommen austauschbar. Die Grenzrate der Substitution ist konstant.\n\n\n\n\n\n\n\n\n\n\n\nAnnahme: Die Güter werden nur in einem starren Verhältnis geschätzt. Mehr von einem Gut allein stiftet keinen Nutzen (Knickpunkte auf dem Expansionspfad)."
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#arbeitszeit-freizeit-entscheidung-als-optimierungsproblem",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#arbeitszeit-freizeit-entscheidung-als-optimierungsproblem",
+    "title": "Economics — Blended Learning",
+    "section": "Arbeitszeit-Freizeit-Entscheidung als Optimierungsproblem",
+    "text": "Arbeitszeit-Freizeit-Entscheidung als Optimierungsproblem\n\n Rationale Wahlhandlung\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#optimalitätsbedingung-bei-perfekten-substituten-oder-komplementen",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#optimalitätsbedingung-bei-perfekten-substituten-oder-komplementen",
+    "title": "Economics — Blended Learning",
+    "section": "Optimalitätsbedingung bei perfekten Substituten oder Komplementen?",
+    "text": "Optimalitätsbedingung bei perfekten Substituten oder Komplementen?\n\n Rationale Wahlhandlung"
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#komparative-statik",
@@ -921,56 +949,105 @@
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#einkommens--und-substitutionseffekt-hicks-zerlegung",
     "title": "Economics — Blended Learning",
     "section": "Einkommens- und Substitutionseffekt (Hicks-Zerlegung)",
-    "text": "Einkommens- und Substitutionseffekt (Hicks-Zerlegung)\n\n Einkommens- und Substitionseffekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
+    "text": "Einkommens- und Substitutionseffekt (Hicks-Zerlegung)\n\n Komparative Statik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung in Anlehnung an (The CORE Econ Team, 2023)."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#exkurs-slutzky-zerlegung",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#exkurs-slutzky-zerlegung",
     "title": "Economics — Blended Learning",
     "section": "Exkurs: Slutzky-Zerlegung",
-    "text": "Exkurs: Slutzky-Zerlegung\n\n Einkommens- und Substitionseffekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung."
+    "text": "Exkurs: Slutzky-Zerlegung\n\n Komparative Statik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigene Darstellung."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#historische-entwicklung-der-jährlichen-arbeitszeit",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#historische-entwicklung-der-jährlichen-arbeitszeit",
     "title": "Economics — Blended Learning",
     "section": "Historische Entwicklung der (jährlichen) Arbeitszeit",
-    "text": "Historische Entwicklung der (jährlichen) Arbeitszeit\n\n Abgleich Theorie und Empirie\n\n\nJährliche Arbeitszeit im ZeitverlaufLebensarbeitszeit im Zeitverlauf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuelle: Data (2024) und Fogel (2000)."
+    "text": "Historische Entwicklung der (jährlichen) Arbeitszeit\n\n Theorie vs. Empirie\n\n\nJährliche Arbeitszeit im ZeitverlaufLebensarbeitszeit im Zeitverlauf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuelle: Our World in Data (2024) und Fogel (2000)."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#kann-das-modell-die-daten-erklären",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#kann-das-modell-die-daten-erklären",
     "title": "Economics — Blended Learning",
     "section": "Kann das Modell die Daten erklären?",
-    "text": "Kann das Modell die Daten erklären?\n\n Abgleich Theorie und Empirie\n\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.16."
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#j.-schor-zu-arbeitszeiten-produktivität-und-umwelt",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#j.-schor-zu-arbeitszeiten-produktivität-und-umwelt",
-    "title": "Economics — Blended Learning",
-    "section": "J. Schor zu Arbeitszeiten, Produktivität und Umwelt",
-    "text": "J. Schor zu Arbeitszeiten, Produktivität und Umwelt\n\n Abgleich Theorie und Empirie"
+    "text": "Kann das Modell die Daten erklären?\n\n Theorie vs. Empirie\n\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.16."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#das-gender-puzzle",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#das-gender-puzzle",
     "title": "Economics — Blended Learning",
     "section": "Das Gender-Puzzle",
-    "text": "Das Gender-Puzzle\n\n Transfer: Gender & Kultur\n\n\nMögliche ErklärungEine (andere) Erklärung\n\n\n\nBeobachtung: Frauen leisten weltweit weniger bezahlte und deutlich mehr unbezahlte Arbeit als Männer. Gleichzeitig existiert ein Gender Wage Gap (Lohnlücke).\nDie erste Vermutung: Arbeiten Frauen weniger, weil ihr Lohn geringer ist (Substitutionseffekt)?\nDie ökonomische Widerlegung: Historisch (z.B. von 1900 auf 2020) haben steigende Löhne zu weniger Arbeitszeit geführt (Einkommenseffekt dominierte). Ein reiner Lohnunterschied erklärt also nicht, warum Frauen weniger bezahlte Arbeit leisten."
+    "text": "Das Gender-Puzzle\n\n Theorie vs. Empirie ·  Modellimplikationen\n\n\nMögliche ErklärungEine (andere) Erklärung\n\n\n\nBeobachtung: Frauen leisten weltweit weniger bezahlte und deutlich mehr unbezahlte Arbeit als Männer. Gleichzeitig existiert ein Gender Wage Gap (Lohnlücke).\nDie erste Vermutung: Arbeiten Frauen weniger, weil ihr Lohn geringer ist (Substitutionseffekt)?\nDie ökonomische Widerlegung: Historisch (z.B. von 1900 auf 2020) haben steigende Löhne zu weniger Arbeitszeit geführt (Einkommenseffekt dominierte). Ein reiner Lohnunterschied erklärt also nicht, warum Frauen weniger bezahlte Arbeit leisten."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#das-haushaltsmodell-ana-luis",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#das-haushaltsmodell-ana-luis",
     "title": "Economics — Blended Learning",
     "section": "Das Haushaltsmodell (Ana & Luis)",
-    "text": "Das Haushaltsmodell (Ana & Luis)\n\n Transfer: Gender & Kultur\n\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.22."
+    "text": "Das Haushaltsmodell (Ana & Luis)\n\n Theorie vs. Empirie ·  Modellimplikationen\n\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.22."
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#ländervergleich-usa-vs.-niederlande",
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#ländervergleich-usa-vs.-niederlande",
     "title": "Economics — Blended Learning",
     "section": "Ländervergleich: USA vs. Niederlande",
-    "text": "Ländervergleich: USA vs. Niederlande\n\n Transfer: Gender & Kultur\n\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.16."
+    "text": "Ländervergleich: USA vs. Niederlande\n\n Theorie vs. Empirie ·  Modellimplikationen\n\n\n\nObs! Aggregation vs. Emergenz: Ist das Ganze tatsächlich die Summe der Einzelteile?\n\n\nQuelle: (The CORE Econ Team, 2023), Abb. 3.16."
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#wissenschaftstheoretischer-hintergrund",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#wissenschaftstheoretischer-hintergrund",
+    "title": "Economics — Blended Learning",
+    "section": "Wissenschaftstheoretischer Hintergrund",
+    "text": "Wissenschaftstheoretischer Hintergrund\n\n Theorie vs. Empirie ·  Methodologie\n\n\nMethodologischer IndividualismusHomo OeconomicusCaveat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDas wissenschaftstheoretische Konzept des methodologischen Individualismus führt soziale Phänomene (Prozesse, Institutionen etc.) auf das Verhalten der beteiligten Individuen (als kleinste Einheiten bzw. Grundbestandteile der sozialen Welt) zurück. Kurz: Das Ganze wird als Summe der Einzelteile gesehen und erklärt.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeoklassik als Ökonomisches Standardparadigma\nZentrale Annahme: der (zumindest in wirtschaftlichen Fragen) uneingeschränkt rationale homo oeconomicus\nDiese Annahme erlaubt es, Handlungsentscheidungen mit (vereinfachenden) mathematischen Modellen abzubilden.\n\n\n\n\n\n\n\n\nObs! Der homo oeconomicus ist weder positiv (als Menschenbild) noch normativ (als Ideal) zu interpretieren.\nZiel: Erklärung gesellschaftlicher Makrophänomene in anonymen Gesellschaften (nicht einzelnes individuelles Verhalten).\nMithin: methodologische Funktion (Analysekonstrukt).\n\n\n\n\nNiemand im Vollbesitz seiner geistigen Kräfte möchte seine Tochter mit einem ‘homo oeconomicus’ verheiratet sehen, mit jemandem, der sämtliche Kosten nachrechnet und stets nach dem Gegenwert fragt, der nie von verrückter Großzügigkeit oder nicht berechnender Liebe heimgesucht ist, der nie aus einem Gefühl innerer Identität handelt und der in der Tat keine innere Identität besitzt, auch wenn er gelegentlich von sorgfältig kalkulierten Erwägungen über Wohlwollen und Missgunst bewegt ist.\n\n— (Boulding 1973, S. 12, zitiert nach Bofinger 2010, S. 80)"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#j.-schor-zu-arbeitszeiten-produktivität-und-umwelt",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#j.-schor-zu-arbeitszeiten-produktivität-und-umwelt",
+    "title": "Economics — Blended Learning",
+    "section": "J. Schor zu Arbeitszeiten, Produktivität und Umwelt…",
+    "text": "J. Schor zu Arbeitszeiten, Produktivität und Umwelt…\n\n Theorie vs. Empirie ·  Methodologie\n\n…und einem Ausblick auf das Thema Verhandlungsmacht"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#makroökonomische-perspektive",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#makroökonomische-perspektive",
+    "title": "Economics — Blended Learning",
+    "section": "Makroökonomische Perspektive",
+    "text": "Makroökonomische Perspektive\n\nEinordnung Mikro- vs. Makroökonomik\nKleine Fortschritte, große Effekte: Die 69er-Regel\nVerwendungsmöglichkeiten von Produktivitätsfortschritten"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#mikro--vs.-makroökonomik",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#mikro--vs.-makroökonomik",
+    "title": "Economics — Blended Learning",
+    "section": "Mikro- vs. Makroökonomik",
+    "text": "Mikro- vs. Makroökonomik\n\n Makroökonomische Perspektive ·  Einordnung\n\n\nMikroökonomikMakroökonomikPerspektivenFun\n\n\n\n\n\n\n\n\n\n\n\nBildquelle: Universität Regensburg.\n\n\n\n\n\n\n\n\n\n\n\n\n\nBildquelle: shutterstock.\n\n\n\n\n\n\n\n\nMikro\n\n\nMakro\n\n\n\n\n\n\nAusgangspunkt:\n\n\neinzelnes Subjekt/Haushalt\n\n\nzweifacher Aggregationsprozess (Güter- & Akteursebene) Obs! Ist das Ganze die Summe der Teile? → Aggregationsfehlschluss (Fallacy of Composition)\n\n\n\n\nHauptinteressen:\n\n\nAllokation und Distribution\n\n\nBestimmungsgründe und Entwicklung Globalgrößen\n\n\n\n\nErklärung individueller Entscheidungen\n\n\nErklärung kollektiver Outcomes\n\n\n\n\nWichtige Zweige:\n\n\nEntscheidungstheorie\n\n\nWachstumstheorie\n\n\n\n\nPreis-/Werttheorie\n\n\nKonjunkturtheorie\n\n\n\n\nWettbewerbstheorie\n\n\nBeschäftigungstheorie\n\n\n\n\nInformationsökonomik\n\n\nHandelstheorie\n\n\n\n\nVerhaltensökonomik\n\n\nGeldtheorie\n\n\n\n\n\n\nFinanzmarkttheorie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBildquelle: tumblr.com"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#keynes-idee-aus-mathematischer-sicht",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#keynes-idee-aus-mathematischer-sicht",
+    "title": "Economics — Blended Learning",
+    "section": "Keynes’ Idee aus mathematischer Sicht",
+    "text": "Keynes’ Idee aus mathematischer Sicht\n\n Makroökonomische Perspektive ·  Wohlstandstreiber Produktivität\n\n\n“Productivity growth isn’t everything, but in the long run it’s almost everything.”\n\n— (Paul Krugman)\n\n\n\n\nGeringe Änderungsraten haben langfristig große Niveau-Effekte:\n\n\n\n\nDie 69er (bzw. 70er oder 72er Regel): \\[\\mbox{Anzahl der Jahre bis zur Verdoppelung} \\approx \\frac{69}{\\mbox{jährliche Wachstumsrate}}\\]\nZur Erinnerung: \\[\\ln(2) \\approx 0{,}6931 \\qquad \\text{und} \\qquad \\lim_{p\\to 0}\\left(1+\\frac{p}{100}\\right) = \\frac{p}{100}\\]"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#bip-pro-kopf-und-produktivität",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#bip-pro-kopf-und-produktivität",
+    "title": "Economics — Blended Learning",
+    "section": "BIP pro Kopf und Produktivität",
+    "text": "BIP pro Kopf und Produktivität\n\n Makroökonomische Perspektive ·  Verwendung Produktivitätsfortschritt\n\n\n\nProduktivität, Arbeitsmarkt und Präferenzen entscheiden über die Entwicklung des BIP pro Kopf:\n\n\\[\n\\frac{\\text{BIP}}{\\text{Bevölkerung}} = \\underbrace{\\frac{\\text{BIP}}{\\text{Arbeitsstunden}}}_{\\text{Produktivität}} \\cdot \\underbrace{\\frac{\\text{Arbeitsstunden}}{\\text{Bevölkerung}}}_{\\text{Arbeitsmarkt und Präferenzen}}\n\\]\n\n\nwobei:\n\n\\[\n\\frac{\\text{Arbeitsstunden}}{\\text{Bevölkerung}} = \\underbrace{\\frac{\\text{Arbeitsstunden}}{\\text{Erwerbstätige}}}_{\\text{Präferenzen}} \\cdot \\underbrace{\\frac{\\text{Erwerbstätige}}{\\text{Bevölkerung}}}_{\\text{(Erwerbstätigenquote)}}\n\\]\n\n\n\nbzw.\n\n\\[\n\\frac{\\text{Erwerbstätige}}{\\text{Bevölkerung}} = \\underbrace{\\frac{\\text{Erwerbstätige}}{\\text{Erwerbspersonen}}}_{\\text{(1 - Arbeitslosenquote)}} \\cdot \\underbrace{\\frac{\\text{Erwerbspersonen}}{\\text{Bevölkerung}}}_{\\text{Partizipation}}\n\\]"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#arithmetik-des-produktivitätswachstums",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#arithmetik-des-produktivitätswachstums",
+    "title": "Economics — Blended Learning",
+    "section": "Arithmetik des Produktivitätswachstums",
+    "text": "Arithmetik des Produktivitätswachstums\n\n Makroökonomische Perspektive ·  Verwendung Produktivitätsfortschritt\n\n\n\n(Arbeits-)Produktivität:\n\n\\[y_t \\equiv \\frac{Y_t}{L_t}, \\text{mit}~ Y_t: \\text{BIP und}~ L_t: \\text{geleistete Arbeitsstunden}.\\]\n\n\nProduktivitätswachstum:\n\n\\[\\frac{y_{t}}{y_{t-1}} = \\frac{Y_t / Y_{t-1}}{L_t / L_{t-1}} = \\frac{(1+g_{Y,t})}{(1+g_{L,t})} \\iff \\ln(1+g_{y,t}) = \\ln(1+g_{Y,t}) - \\ln(1+g_{L,t})\\]\n\n\n\nFür kleine Wachstumsraten \\(g\\) gilt näherungsweise:\n\n\\[g_{y,t} \\approx g_{Y,t} - g_{L,t}\\]"
+  },
+  {
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#wie-kann-das-produktivitätswachstum-genutzt-werden",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#wie-kann-das-produktivitätswachstum-genutzt-werden",
+    "title": "Economics — Blended Learning",
+    "section": "Wie kann das Produktivitätswachstum genutzt werden?",
+    "text": "Wie kann das Produktivitätswachstum genutzt werden?\n\n Makroökonomische Perspektive ·  Verwendung Produktivitätsfortschritt\n\n\n\nAufschlüsselung:\n\n\\[y = \\frac{Y}{L} = \\frac{Y}{\\frac{L}{E} \\cdot \\frac{E}{N} \\cdot N}, ~\\text{mit}~ Y: ~\\text{BIP}, ~L: ~\\text{Arbeitsstunden},~ N: ~\\text{Bevölkerung}, ~E: ~\\text{Erwerbstätige}.\\]\n\n\nWachstumsrate \\(g_y\\) näherungsweise: \\[g_y \\approx g_Y - g_L - g_E - g_N\\]\n\n\n\n\nBei konstanter Bevölkerung (\\(g_N=0\\)) kann \\(g_y\\) genutzt werden für:\n\n\n\nSteigerung des (absoluten) BIP (\\(g_Y &gt; 0\\))\n\n\n\n\nReduktion der Arbeitsstunden pro Erwerbstätigen (\\(g_{L/E} &lt; 0\\))\n\n\n\n\nReduktion der Erwerbstätigenquote (\\(g_{E/N} &lt; 0\\))\n\n\n\n\n\n\n\nDemografischer Wandel: Was passiert, wenn \\(g_N &lt; 0\\) oder die Erwerbsquote sinkt?"
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#vielen-dank",
@@ -980,39 +1057,11 @@
     "text": "Vielen Dank!\nFragen über  ISBA-University ·  jfschoder"
   },
   {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#quellen",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#quellen",
+    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#section-1",
+    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#section-1",
     "title": "Economics — Blended Learning",
-    "section": "Quellen",
-    "text": "Quellen\n\n Transfer: Gender & Kultur\n\n\n\nData, O. W. in. (2024). OWID Homepage. Our World in Data.\n\n\nFogel, R. W. (2000). The Fourth Great Awakening and the Future of Egalitarianism. Chicago: University of Chicago Press.\n\n\nThe CORE Econ Team. (2023). The Economy 2.0: Microeconomics."
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#lernziele",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#lernziele",
-    "title": "Economics — Blended Learning",
-    "section": "Lernziele",
-    "text": "Lernziele\n\nInhaltlich"
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#agenda",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#agenda",
-    "title": "Economics — Blended Learning",
-    "section": "Agenda",
-    "text": "Agenda\n\n Überblick\n\n\n\n\n\n\n\n\nPhase\nInhalt\n\n\n\n\n10’\n Rückblick Vorbereitung\n\n\n30’\n Die Hockeystick-Kurve\n\n\n20’\n Internationale Ungleichheit\n\n\n30’\n Sens Capability Approach\n\n\n10’\n Ausblick"
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zwischenfolie",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zwischenfolie",
-    "title": "Economics — Blended Learning",
-    "section": "Zwischenfolie",
-    "text": "Zwischenfolie\n\nTeil 1 — Der große Sprung\n\nDas Rätsel der Hockeystick-Kurve\nReales BIP pro Kopf über 1000 Jahre\nWarum ab 1800?\n\nTeil 2 — Ungleichheit\n\nZwischen Ländern\nInnerhalb von Ländern\nSens Kritik am BIP"
-  },
-  {
-    "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zentrale-frage",
-    "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#zentrale-frage",
-    "title": "Economics — Blended Learning",
-    "section": "Zentrale Frage",
-    "text": "Zentrale Frage\n\n Die Hockeystick-Kurve\n\n\n\n\n\n\n\n\nDas Rätsel\n\n\nWarum verlief das reale BIP pro Kopf über Jahrhunderte flach — und warum seit ca. 1800 so steil?"
+    "section": "",
+    "text": "Quellen\n\n\n\nFogel, R. W. (2000). The Fourth Great Awakening and the Future of Egalitarianism. Chicago: University of Chicago Press.\n\n\nOur World in Data. (2024). OWID Homepage. Our World in Data.\n\n\nThe CORE Econ Team. (2023). The Economy 2.0: Microeconomics."
   },
   {
     "objectID": "ressources/immerse.html",

@@ -227,6 +227,239 @@ p_b2_fig_dual_4 <- p_b2_fig_dual_3 +
   annotate("text", x = 12.5, y = -215, label = "Freizeit (Stunden)",
            color = isba_blue_soft, fontface = "bold", size = 4.5)
 
+
+
+# ============================================================================
+
+# Allgemeiner Fall - von Input-Output zu Output-Output-Diagramm ----
+
+# Gemeinsame Konstante: Die begrenzte Ressource (z.B. 100 Arbeitsstunden)
+L_max <- 100
+
+# Hilfsfunktion: Verhindert die doppelte Null im Ursprung
+hide_zero <- function(x) { ifelse(x == 0, "", x) }
+
+# ============================================================================
+# BLOCK 1: Linearer Fall
+# ============================================================================
+
+# Gut 1 ist "teuer/aufwändig" (niedrige Produktivität): Y1 = 0.5 * L
+# Gut 2 ist "günstig/schnell" (hohe Produktivität): Y2 = 2.0 * L
+prod_lin_1 <- function(L) 0.5 * L
+prod_lin_2 <- function(L) 2.0 * L
+
+# 1. Daten generieren (Tidy Syntax)
+df_b1_lin <- tibble(L_input = seq(0, L_max, length.out = 100)) |>
+  mutate(
+    Y1_out = prod_lin_1(L_input),
+    Y2_out = prod_lin_2(L_input),
+    # Für die PPF ordnen wir die gesamte Ressource zwischen L1 und L2 zu
+    L1 = L_input,
+    L2 = L_max - L_input,
+    PPF_Y1 = prod_lin_1(L1),
+    PPF_Y2 = prod_lin_2(L2)
+  )
+
+# 2. Skalen definieren (Y-Achsen nutzen hide_zero)
+scale_L_io   <- scale_x_continuous(limits = c(0, 105), expand = c(0, 0), name = "Input L (z.B. Stunden)")
+scale_Y1_out <- scale_y_continuous(limits = c(0, 60),  expand = c(0, 0), name = "Output Gut 1 (Aufwändig)", labels = hide_zero)
+scale_Y2_out <- scale_y_continuous(limits = c(0, 220), expand = c(0, 0), name = "Output Gut 2 (Schnell)", labels = hide_zero)
+scale_PPF_X  <- scale_x_continuous(limits = c(0, 60),  expand = c(0, 0), name = "Output Gut 1")
+
+### ---------- Schritt 1: Input-Output Gut 1 (Flache Kurve) ----------
+p_b1_lin_1 <- ggplot(df_b1_lin, aes(x = L_input, y = Y1_out)) +
+  geom_line(linewidth = 1.3, color = isba_orange) +
+  scale_L_io + scale_Y1_out +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  annotate("text", x = 20, y = 45, label = "Geringe Produktivität\n(Flache Steigung)",
+           color = isba_orange, fontface = "bold", hjust = 0)
+
+### ---------- Schritt 2: Input-Output Gut 2 (Steile Kurve) ----------
+p_b1_lin_2 <- ggplot(df_b1_lin, aes(x = L_input, y = Y2_out)) +
+  geom_line(linewidth = 1.3, color = isba_blue_soft) +
+  scale_L_io + scale_Y2_out +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  annotate("text", x = 20, y = 180, label = "Hohe Produktivität\n(Steile Steigung)",
+           color = isba_blue_soft, fontface = "bold", hjust = 0)
+
+### ---------- Schritt 3: Output-Output (Transformationskurve) ----------
+p_b1_lin_3 <- ggplot(df_b1_lin, aes(x = PPF_Y1, y = PPF_Y2)) +
+  geom_ribbon(aes(ymin = 0, ymax = PPF_Y2), fill = isba_blue, alpha = 0.08) +
+  geom_line(linewidth = 1.3, color = isba_blue) +
+  scale_PPF_X + scale_Y2_out +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  annotate("label", x = 25, y = 100,
+           label = "Hohe Opportunitätskosten für Gut 1:\nUm 1 Einheit Gut 1 zu bekommen,\nmüssen 4 Einheiten Gut 2 aufgegeben werden.",
+           color = isba_blue, fill = "white", size = 3.5)
+
+
+## Optimiert für Quarto Präsentation -------
+
+library(patchwork) # Zwingend erforderlich für das Layout
+# Hilfsfunktion: Verhindert die doppelte Null im Ursprung
+hide_zero <- function(x) { ifelse(x == 0, "", x) }
+
+L_max <- 100
+scale_L_io <- scale_x_continuous(limits = c(0, 105), expand = c(0, 0), name = "Input L")
+
+# ============================================================================
+# BLOCK 1: Linearer Fall
+# ============================================================================
+# Steigungen: 1:1 (Flach) und 2:1 (Steil)
+prod_lin_1 <- function(L) 1.0 * L  # Flach (Max 100)
+prod_lin_2 <- function(L) 2.0 * L  # Steil (Max 200)
+
+df_b2_lin <- tibble(L_input = seq(0, L_max, length.out = 100)) |>
+  mutate(
+    Y1_out = prod_lin_1(L_input),
+    Y2_out = prod_lin_2(L_input),
+    PPF_Y1 = prod_lin_1(L_input),
+    PPF_Y2 = prod_lin_2(L_max - L_input)
+  )
+
+# Plot 1: Gut 1 (Flach) - Y-Achse bis 200 erzwungen für Vergleichbarkeit
+p_base_lin_1 <- ggplot(df_b2_lin, aes(x = L_input, y = Y1_out)) +
+  geom_line(linewidth = 1.3, color = isba_orange) +
+  scale_L_io +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 1", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Produktionsfunktion Gut 1")
+
+# Plot 2: Gut 2 (Steil) - Y-Achse identisch bis 200
+p_base_lin_2 <- ggplot(df_b2_lin, aes(x = L_input, y = Y2_out)) +
+  geom_line(linewidth = 1.3, color = isba_blue_soft) +
+  scale_L_io +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 2", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Produktionsfunktion Gut 2")
+
+# Plot 3: Transformationskurve (PPF)
+p_base_lin_3 <- ggplot(df_b2_lin, aes(x = PPF_Y1, y = PPF_Y2)) +
+  geom_ribbon(aes(ymin = 0, ymax = PPF_Y2), fill = isba_blue, alpha = 0.08) +
+  geom_line(linewidth = 1.5, color = isba_blue) +
+  scale_x_continuous(limits = c(0, 105), expand = c(0, 0), name = "Output Gut 1") +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 2", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Transformationskurve (konstante GRT)")
+
+# --- Layouting mit Operator-Syntax ---
+p_b2_mrt_lin_1 <- (p_base_lin_1 / plot_spacer()) | plot_spacer()
+p_b2_mrt_lin_2 <- (p_base_lin_1 / p_base_lin_2)  | plot_spacer()
+p_b2_mrt_lin_3 <- (p_base_lin_1 / p_base_lin_2)  | p_base_lin_3
+
+
+# ============================================================================
+# BLOCK 2: Nicht-linearer Fall (Konkav)
+# ============================================================================
+# Steigungen analog: Faktor 10 (Flach, Max 100) vs Faktor 20 (Steil, Max 200)
+prod_con_1 <- function(L) 10 * sqrt(L)
+prod_con_2 <- function(L) 20 * sqrt(L)
+
+df_b2_con <- tibble(L_input = seq(0, L_max, length.out = 200)) |>
+  mutate(
+    Y1_out = prod_con_1(L_input),
+    Y2_out = prod_con_2(L_input),
+    PPF_Y1 = prod_con_1(L_input),
+    PPF_Y2 = prod_con_2(L_max - L_input)
+  )
+
+# Plot 1: Gut 1 - Y-Achse bis 200 erzwungen
+p_base_con_1 <- ggplot(df_b2_con, aes(x = L_input, y = Y1_out)) +
+  geom_line(linewidth = 1.3, color = isba_orange) +
+  scale_L_io +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 1", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Produktionsfunktion (nichtlinear) Gut 1")
+
+# Plot 2: Gut 2 - Y-Achse identisch bis 200
+p_base_con_2 <- ggplot(df_b2_con, aes(x = L_input, y = Y2_out)) +
+  geom_line(linewidth = 1.3, color = isba_blue_soft) +
+  scale_L_io +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 2", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Produktionsfunktion (nichtlinear) Gut 2")
+
+# Plot 3: Transformationskurve (PPF)
+p_base_con_3 <- ggplot(df_b2_con, aes(x = PPF_Y1, y = PPF_Y2)) +
+  geom_ribbon(aes(ymin = 0, ymax = PPF_Y2), fill = isba_blue, alpha = 0.08) +
+  geom_line(linewidth = 1.5, color = isba_blue) +
+  scale_x_continuous(limits = c(0, 105), expand = c(0, 0), name = "Output Gut 1") +
+  scale_y_continuous(limits = c(0, 210), expand = c(0, 0), name = "Output Gut 2", labels = hide_zero) +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  labs(subtitle = "Transformationskurve (variable GRT)")
+
+# --- Layouting mit Operator-Syntax ---
+p_b2_mrt_nichtlin_1 <- (p_base_con_1 / plot_spacer()) | plot_spacer()
+p_b2_mrt_nichtlin_2 <- (p_base_con_1 / p_base_con_2)  | plot_spacer()
+p_b2_mrt_nichtlin_3 <- (p_base_con_1 / p_base_con_2)  | p_base_con_3
+
+
+# ============================================================================
+# BLOCK 2: Nicht-linearer Fall (Konkav)
+# ============================================================================
+
+# Gut 1: Y1 = 12 * sqrt(L) (Maximaler Output: 120)
+# Gut 2: Y2 = 30 * sqrt(L) (Maximaler Output: 300)
+prod_con_1 <- function(L) 12 * sqrt(L)
+prod_con_2 <- function(L) 30 * sqrt(L)
+
+# 1. Daten generieren (Tidy Syntax)
+df_b2_con <- tibble(L_input = seq(0, L_max, length.out = 200)) |>
+  mutate(
+    Y1_out = prod_con_1(L_input),
+    Y2_out = prod_con_2(L_input),
+    L1 = L_input,
+    L2 = L_max - L_input,
+    PPF_Y1 = prod_con_1(L1),
+    PPF_Y2 = prod_con_2(L2)
+  )
+
+# 2. Spezifische Skalen für den konkaven Fall (Y-Achsen nutzen hide_zero)
+scale_Y1_con <- scale_y_continuous(limits = c(0, 140), expand = c(0, 0), name = "Output Gut 1", labels = hide_zero)
+scale_Y2_con <- scale_y_continuous(limits = c(0, 330), expand = c(0, 0), name = "Output Gut 2", labels = hide_zero)
+scale_PPF_con_X <- scale_x_continuous(limits = c(0, 140), expand = c(0, 0), name = "Output Gut 1")
+
+### ---------- Schritt 1: Input-Output Gut 1 ----------
+p_b2_con_1 <- ggplot(df_b2_con, aes(x = L_input, y = Y1_out)) +
+  geom_line(linewidth = 1.3, color = isba_orange) +
+  scale_L_io + scale_Y1_con +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  annotate("text", x = 40, y = 120, label = "Abnehmender Ertrag (Gut 1)\nMax: 120",
+           color = isba_orange, fontface = "bold")
+
+### ---------- Schritt 2: Input-Output Gut 2 ----------
+p_b2_con_2 <- ggplot(df_b2_con, aes(x = L_input, y = Y2_out)) +
+  geom_line(linewidth = 1.3, color = isba_blue_soft) +
+  scale_L_io + scale_Y2_con +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  annotate("text", x = 40, y = 300, label = "Abnehmender Ertrag (Gut 2)\nMax: 300",
+           color = isba_blue_soft, fontface = "bold")
+
+### ---------- Schritt 3: Output-Output (Transformationskurve) ----------
+# Wir nutzen add_pt (aus dem theme-isba Helper), um die Verschiebung der MRT zu zeigen
+pts_mrt_con <- tibble(
+  x = c(50, 110),
+  y = prod_con_2(L_max - (c(50, 110)/12)^2), # Rückrechnung von Y1 auf L1, dann L2, dann Y2
+  label = c("A", "B")
+)
+
+p_b2_con_3 <- ggplot(df_b2_con, aes(x = PPF_Y1, y = PPF_Y2)) +
+  geom_ribbon(aes(ymin = 0, ymax = PPF_Y2), fill = isba_blue, alpha = 0.08) +
+  geom_line(linewidth = 1.3, color = isba_blue) +
+  scale_PPF_con_X + scale_Y2_con +
+  theme_isba(theory = TRUE, axis_decoration = TRUE) +
+  # Einbinden der Hilfsfunktion für Punkte (Voraussetzung: add_pt ist in der R-Session geladen)
+  add_pt(pts_mrt_con, c("A", "B"), nudge_x = 5, nudge_y = 15, size_pt = 3) +
+  annotate("text", x = 80, y = 280,
+           label = "Asymmetrische, konkave Frontier",
+           color = isba_blue, fontface = "bold", size = 5)
+
+
+
+
+
+
+
 # ============================================================================
 # DEMO: COBB-DOUGLAS-INDIFFERENZKURVEN (Modelldiagramm, theme_isba(theory = TRUE))
 #
@@ -371,6 +604,102 @@ p_b2_pref_6 <- p_b2_pref_5 +
   geom_line(data = filter(ic_data, curve %in% c("IC1", "IC3")),
             aes(x = x, y = y, group = curve),
             color = isba_orange, linewidth = 0.9)
+
+
+
+# ============================================================================
+
+# Abbildungsserie: Unterschiedliche Präferenzordnungen -----
+# Basierend auf identischen Konsumplänen (A-H, B, C)
+
+# 1. Gemeinsame Basis-Daten (aus deinem Lehrbuch-Beispiel)
+alpha_cd <- 0.7280
+
+# Hilfsfunktion und Skalen
+hide_zero <- function(x) { ifelse(x == 0, "", x) }
+x_lim <- c(8.5, 25); y_lim <- c(0, 670)
+
+base_pref_scales <- list(
+  scale_x_continuous(limits = x_lim, expand = c(0, 0), name = "Freizeit pro Tag"),
+  scale_y_continuous(limits = y_lim, expand = c(0, 0), name = "Konsumausgaben (€)", labels = hide_zero),
+  theme_isba(theory = TRUE)
+)
+
+# Konsumpläne (Punkte) generieren - Y-Werte für A, E, F, G, H, D aus CD-Funktion
+U_mid_cd <- 15^alpha_cd * 540^(1 - alpha_cd)
+
+pts_all <- bind_rows(
+  tibble(x = c(15, 16, 17, 18, 19, 20), label = c("A", "E", "F", "G", "H", "D")),
+  tibble(x = 13, y = 540, label = "B"),
+  tibble(x = 20, y = 85,  label = "C")
+) |>
+  mutate(y = ifelse(is.na(y), (U_mid_cd / x^alpha_cd)^(1 / (1 - alpha_cd)), y))
+
+
+## 2. Cobb-Douglas Kurvenschar (Konvexe ICs) ------
+# 4 Nutzenniveaus (durch C, durch B, durch A/D, und ein höheres)
+U_C_cd    <- 20^alpha_cd * 85^(1 - alpha_cd)
+U_B_cd    <- 13^alpha_cd * 540^(1 - alpha_cd)
+U_high_cd <- 18^alpha_cd * 600^(1 - alpha_cd)
+
+ic_cd_data <- expand_grid(
+  x = seq(8.5, 25, length.out = 300),
+  U = c(U_C_cd, U_B_cd, U_mid_cd, U_high_cd)
+) |>
+  mutate(
+    y = (U / x^alpha_cd)^(1 / (1 - alpha_cd)),
+    curve = as.factor(U)
+  )
+
+p_b2_pref_type_cd <- ggplot() +
+  base_pref_scales +
+  geom_line(data = ic_cd_data, aes(x = x, y = y, group = curve), color = isba_orange, linewidth = 1) +
+  add_pt(pts_all, labels = pts_all$label, nudge_y = 20) +
+  labs(subtitle = "Cobb-Douglas-Funktion")
+
+
+## 3. Lineare Kurvenschar (Perfekte Substitute) --------
+# Steigung m = -58 (Gerade durch A und D).
+# y = m*x + b -> b = y - m*x. Wir berechnen die Y-Achsenabschnitte für 4 Kurven:
+m_lin <- -58
+intercepts_lin <- c(
+  85  - (m_lin * 20),  # Kurve durch C
+  540 - (m_lin * 13),  # Kurve durch B
+  540 - (m_lin * 15),  # Kurve durch A und D (IC_mid)
+  1550                 # Höhere Außenkurve
+)
+
+p_b2_pref_type_lin <- ggplot() +
+  base_pref_scales +
+  geom_abline(intercept = intercepts_lin, slope = m_lin, color = isba_orange, linewidth = 1) +
+  add_pt(pts_all, labels = pts_all$label, nudge_y = 20) +
+  labs(subtitle = "Lineare Funktion")
+
+
+## 4. Leontief Kurvenschar (Perfekte Komplemente) ------
+create_leontief <- function(x_kink) {
+  y_kink <- x_kink * (250 / 15)
+
+  # Vom oberen Rand (670) zum Knick, dann zum rechten Rand (25)
+  tibble(
+    x = c(x_kink, x_kink, 25),
+    y = c(670, y_kink, y_kink),
+    curve = paste0("Kink_", x_kink)
+  )
+}
+
+df_leo <- bind_rows(
+  create_leontief(10),  # Untere Kurve (Knick gut sichtbar)
+  create_leontief(13),  # Geht exakt durch Punkt B(13, 540) auf dem vertikalen Ast
+  create_leontief(15),  # IC_mid: Durch A(15, 540) (vertikal) und D(20, 250) (horizontal)
+  create_leontief(18)   # Höhere Außenkurve
+)
+
+p_b2_pref_type_leo <- ggplot() +
+  base_pref_scales +
+  geom_path(data = df_leo, aes(x = x, y = y, group = curve), color = isba_orange, linewidth = 1) +
+  add_pt(pts_all, labels = pts_all$label, nudge_y = 20) +
+  labs(subtitle = "Leontief-Funktion")
 
 
 # ============================================================================
