@@ -1026,7 +1026,7 @@
     "href": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#keynes-idee-aus-mathematischer-sicht",
     "title": "Economics — Blended Learning",
     "section": "Keynes’ Idee aus mathematischer Sicht",
-    "text": "Keynes’ Idee aus mathematischer Sicht\n\n Makroökonomische Perspektive ·  Wohlstandstreiber Produktivität\n\n\n“Productivity growth isn’t everything, but in the long run it’s almost everything.”\n\n— (Paul Krugman)\n\n\n\n\nGeringe Änderungsraten haben langfristig große Niveau-Effekte:\n\n\n\n\nDie 69er (bzw. 70er oder 72er Regel): \\[\\mbox{Anzahl der Jahre bis zur Verdoppelung} \\approx \\frac{69}{\\mbox{jährliche Wachstumsrate}}\\]\nZur Erinnerung: \\[\\ln(2) \\approx 0{,}6931 \\qquad \\text{und} \\qquad \\lim_{p\\to 0}\\left(1+\\frac{p}{100}\\right) = \\frac{p}{100}\\]"
+    "text": "Keynes’ Idee aus mathematischer Sicht\n\n Makroökonomische Perspektive ·  Wohlstandstreiber Produktivität\n\n\n“Productivity growth isn’t everything, but in the long run it’s almost everything.”\n\n— (Paul Krugman)\n\n\n\n\nGeringe Änderungsraten haben langfristig große Niveau-Effekte:\n\n\n\n\nDie 69er (bzw. 70er oder 72er Regel): \\[\\mbox{Anzahl der Jahre bis zur Verdoppelung} \\approx \\frac{69}{\\mbox{jährliche Wachstumsrate}}\\]\nZur Erinnerung: \\(\\ln(2) \\approx 0{,}6931 \\qquad \\text{und} \\qquad \\lim_{p\\to 0}\\left(1+\\frac{p}{100}\\right) = \\frac{p}{100}\\)"
   },
   {
     "objectID": "block-02/slidedecks/block02-lecture-rational-choice-behavioral.html#bip-pro-kopf-und-produktivität",
